@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="switch-back1.svg"
-   inkscape:export-filename="C:\Users\Stephan\Desktop\Photoshop Zeugs\nemoux-master\slider-button\switch-back1.png"
+   inkscape:export-filename="C:\Users\Stephan\Desktop\Photoshop Zeugs\nemoux-master\slider-button\neu\switch-back1.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -25,11 +25,11 @@
      pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="11"
-     inkscape:cx="35.253234"
-     inkscape:cy="19.701868"
+     inkscape:cx="42.118949"
+     inkscape:cy="14.584781"
      inkscape:current-layer="g3838"
      showgrid="true"
      inkscape:document-units="px"
@@ -63,13 +63,13 @@
   </metadata>
   <g
      style="display:inline"
-     inkscape:label="Background off"
+     inkscape:label="Background"
      id="g3838"
      inkscape:groupmode="layer">
     <rect
-       y="4"
+       y="5"
        x="0"
-       height="24"
+       height="22"
        width="1"
        id="rect3840"
        style="fill:#474747;fill-opacity:1;stroke:none" />
