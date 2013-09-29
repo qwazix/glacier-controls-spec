@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   inkscape:export-filename="C:\Users\Stephan\Desktop\Photoshop Zeugs\nemoux-master\maliit\neu\keyboard-key-landscape-function.png"
+   inkscape:export-filename="C:\Users\Stephan\Desktop\Photoshop Zeugs\nemoux-master\maliit\maliit\keyboard-key-landscape-function.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    sodipodi:docname="keyboard-key-landscape-function.svg">
@@ -105,8 +105,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="16.191092"
-     inkscape:cy="26.990051"
+     inkscape:cx="4.222342"
+     inkscape:cy="24.490051"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -168,31 +168,27 @@
          style="display:inline" />
     </g>
     <g
-       id="g3655"
-       transform="translate(1,1006.3622)">
-      <g
-         style="display:inline"
-         transform="translate(0,-1006.3622)"
-         id="layer1-3"
-         inkscape:label="gradient-sides">
-        <path
-           inkscape:connector-curvature="0"
-           id="rect3798-4"
-           d="m 0,1006.3622 0,4 1,0 0,-4 -1,0 z"
-           style="fill:url(#linearGradient7073-9);fill-opacity:1;stroke:none;display:inline" />
-      </g>
-      <g
-         inkscape:label="foreground"
-         id="g3796-8"
-         transform="translate(0,-1006.3622)"
-         style="display:inline">
-        <path
-           id="rect2991"
-           transform="translate(0,1006.3622)"
-           d="M 0,1 0,46 1,46 1,1 0,1 z"
-           style="fill:#00121d;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
-           inkscape:connector-curvature="0" />
-      </g>
+       inkscape:label="gradient-sides"
+       id="layer1-3"
+       transform="translate(1,0)"
+       style="display:inline">
+      <path
+         style="fill:url(#linearGradient7073-9);fill-opacity:1;stroke:none;display:inline"
+         d="m 0,1006.3622 0,4 1,0 0,-4 -1,0 z"
+         id="rect3798-4"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="display:inline;fill:#005f96;fill-opacity:1"
+       transform="translate(1,0)"
+       id="g3796-8"
+       inkscape:label="foreground">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#005f96;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         d="M 0,1 0,46 1,46 1,1 0,1 z"
+         transform="translate(0,1006.3622)"
+         id="rect2991" />
     </g>
   </g>
   <g

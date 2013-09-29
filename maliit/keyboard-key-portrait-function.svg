@@ -104,9 +104,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-26.753253"
-     inkscape:cy="29.489681"
+     inkscape:zoom="64.000003"
+     inkscape:cx="-1.8966611"
+     inkscape:cy="57.291046"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -184,32 +184,28 @@
          style="display:inline" />
     </g>
     <g
-       id="g3645"
-       transform="translate(1,992.3622)">
-      <g
-         style="display:inline"
-         transform="translate(0,-992.3622)"
-         id="layer1-3"
-         inkscape:label="gradient-sides">
-        <path
-           inkscape:connector-curvature="0"
-           id="rect3798"
-           transform="translate(0,992.3622)"
-           d="M 0,0 0,4 1,4 1,0 0,0 z"
-           style="fill:url(#linearGradient7073-9);fill-opacity:1;stroke:none;display:inline" />
-      </g>
-      <g
-         inkscape:label="foreground"
-         id="g3796-48"
-         transform="translate(0,-992.3622)"
-         style="display:inline">
-        <path
-           inkscape:connector-curvature="0"
-           id="rect2991"
-           transform="translate(0,992.3622)"
-           d="M 0,1 0,60 1,60 1,1 0,1 z"
-           style="fill:#00121d;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
-      </g>
+       inkscape:label="gradient-sides"
+       id="layer1-3"
+       transform="translate(1,0)"
+       style="display:inline">
+      <path
+         style="fill:url(#linearGradient7073-9);fill-opacity:1;stroke:none;display:inline"
+         d="M 0,0 0,4 1,4 1,0 0,0 z"
+         transform="translate(0,992.3622)"
+         id="rect3798"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="display:inline;fill:#005f96;fill-opacity:1"
+       transform="translate(1,0)"
+       id="g3796-48"
+       inkscape:label="foreground">
+      <path
+         style="fill:#005f96;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         d="M 0,1 0,60 1,60 1,1 0,1 z"
+         transform="translate(0,992.3622)"
+         id="rect2991"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
   <g

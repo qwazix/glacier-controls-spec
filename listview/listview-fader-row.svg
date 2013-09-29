@@ -10,36 +10,37 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="40"
-   height="32"
-   id="svg4006"
+   width="15"
+   height="1"
+   id="svg4695"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="switch-slider.svg"
-   inkscape:export-filename="C:\Users\Stephan\Desktop\Photoshop Zeugs\nemoux-master\slider-button\neu\switch-slider.png"
+   sodipodi:docname="listview-fader-row.svg"
+   inkscape:export-filename="C:\Users\Stephan\Documents\GitHub\glacier-controls-spec\listview\listview-fader-row.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
-     id="defs4008">
+     id="defs4697">
     <linearGradient
-       id="linearGradient12556">
+       id="linearGradient14479-7-3">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="0"
-         id="stop12558" />
+         id="stop14481-9-9" />
       <stop
-         style="stop-color:#dcdcdc;stop-opacity:1;"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         id="stop12560" />
+         id="stop14483-3-5" />
     </linearGradient>
     <linearGradient
-       y2="-6.875"
-       x2="15.4375"
-       y1="-19.125"
-       x1="15.4375"
+       y2="714.36218"
+       x2="525"
+       y1="714.36218"
+       x1="540"
+       gradientTransform="matrix(1,0,0,0.01190476,-525,1043.3579)"
        gradientUnits="userSpaceOnUse"
-       id="linearGradient4063"
-       xlink:href="#linearGradient12556"
+       id="linearGradient4708"
+       xlink:href="#linearGradient14479-7-3"
        inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
@@ -49,27 +50,27 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="0.54285196"
-     inkscape:cy="21.70271"
+     inkscape:zoom="11.2"
+     inkscape:cx="3.4510317"
+     inkscape:cy="8.8900256"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1051"
-     inkscape:window-height="721"
-     inkscape:window-x="25"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0">
+     inkscape:window-width="1920"
+     inkscape:window-height="1148"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid4082"
+       id="grid4720"
        empspacing="5"
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <metadata
-     id="metadata4011">
+     id="metadata4700">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -84,16 +85,13 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1020.3622)">
-    <path
-       sodipodi:type="arc"
-       style="fill:url(#linearGradient4063);fill-opacity:1;stroke:none;display:inline"
-       id="path3996"
-       sodipodi:cx="15"
-       sodipodi:cy="-13"
-       sodipodi:rx="7"
-       sodipodi:ry="7"
-       d="m 22,-13 c 0,3.8659932 -3.134007,7 -7,7 -3.865993,0 -7,-3.1340068 -7,-7 0,-3.865993 3.134007,-7 7,-7 3.865993,0 7,3.134007 7,7 z"
-       transform="matrix(2.2857143,0,0,2.2857143,-14.285714,1066.0765)" />
+     transform="translate(0,-1051.3622)">
+    <rect
+       style="fill:url(#linearGradient4708);fill-opacity:1;stroke:none;display:inline"
+       id="rect14429-6-9"
+       width="15"
+       height="1"
+       x="0"
+       y="1051.3622" />
   </g>
 </svg>
