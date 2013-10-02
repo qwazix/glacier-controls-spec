@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="template.svg"
-   inkscape:export-filename="C:\Users\Stephan\Documents\GitHub\glacier-controls-spec\vkb-1.png"
+   sodipodi:docname="textInputs.svg"
+   inkscape:export-filename="textField and textArea.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70470828"
-     inkscape:cx="237.78109"
-     inkscape:cy="502.93493"
+     inkscape:zoom="2.010615"
+     inkscape:cx="448.93227"
+     inkscape:cy="497.34881"
      inkscape:document-units="px"
      inkscape:current-layer="g8251"
      showgrid="true"
@@ -3455,30 +3455,6 @@
        id="linearGradient5055"
        xlink:href="#linearGradient9194-0"
        inkscape:collect="always" />
-    <filter
-       height="2.2198417"
-       y="-0.60992087"
-       width="1.2767901"
-       x="-0.13839506"
-       id="filter5979"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur5981"
-         stdDeviation="0.52268878"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       height="2.5987784"
-       y="-0.7993892"
-       width="1.1997941"
-       x="-0.099897045"
-       id="filter5989"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur5991"
-         stdDeviation="0.33298224"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        y2="189.36218"
        x2="262"
@@ -9886,7 +9862,7 @@
        width="440"
        height="2"
        x="-474"
-       y="436.36218" />
+       y="433.1582" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -9894,16 +9870,16 @@
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Light"
        x="38.109756"
-       y="426.02798"
+       y="422.82401"
        id="text8701"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8703"
          x="38.109756"
-         y="426.02798"
+         y="422.82401"
          style="fill:#ffffff;fill-opacity:1">disabled textfield</tspan></text>
     <rect
-       y="436.36218"
+       y="433.1582"
        x="-474"
        height="2"
        width="440"
@@ -9914,7 +9890,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       transform="matrix(1,0,0,0.8,0,71.672437)"
+       transform="matrix(1,0,0,0.8,0,68.468421)"
        style="opacity:0.1;color:#000000;fill:url(#pattern8730);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter8749);enable-background:accumulate"
        id="rect5761-9"
        width="440"
@@ -10174,5 +10150,74 @@
          id="tspan8945"
          x="613.43066"
          y="636.36218">#ffffff</tspan></text>
+    <rect
+       y="506.05966"
+       x="-474"
+       height="2"
+       width="440"
+       id="rect4920"
+       style="color:#000000;fill:#0091e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4922"
+       y="495.72546"
+       x="38.109756"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Light"
+       xml:space="preserve"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="fill:#ffffff;fill-opacity:1"
+         y="495.72546"
+         x="38.109756"
+         id="tspan4924"
+         sodipodi:role="line">readonly textfield</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
+       transform="scale(-1,1)"
+       style="color:#000000;fill:#0091e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4926"
+       width="440"
+       height="2"
+       x="-474"
+       y="506.05966" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4947"
+       sodipodi:cx="450"
+       sodipodi:cy="487.36218"
+       sodipodi:rx="20"
+       sodipodi:ry="20"
+       d="m 470,487.36218 a 20,20 0 1 1 -40,0 20,20 0 1 1 40,0 z"
+       transform="matrix(0.75,0,0,0.75,112.5,121.84055)"
+       inkscape:export-filename="./paste-icon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 444,480.375 0,15 12,0 0,-15 -2,0 0,1 -8,0 0,-1 z"
+       id="rect5717"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="./paste-icon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5719"
+       width="6"
+       height="2"
+       x="447"
+       y="478.36218"
+       inkscape:export-filename="./paste-icon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
