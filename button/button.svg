@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="button.svg"
-   inkscape:export-filename="C:\Users\Stephan\Documents\GitHub\glacier-controls-spec\vkb-1.png"
+   inkscape:export-filename="button.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64064389"
-     inkscape:cx="206.20297"
-     inkscape:cy="525.98311"
+     inkscape:zoom="0.77517911"
+     inkscape:cx="490.93984"
+     inkscape:cy="527.64891"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -246,7 +246,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -430,9 +430,9 @@
          style="font-size:10px"
          id="flowPara3096">For important buttons, such as OK and Save. One such button should exist in any view and it should be denoted in QML as <flowSpan
    id="flowSpan3106"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">important: true.</flowSpan> The word <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">primary: true.</flowSpan> The word <flowSpan
    id="flowSpan3110"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">important</flowSpan> will be used in other controls too</flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">primary</flowSpan> will be used in other controls too</flowPara><flowPara
          style="font-size:10px"
          id="flowPara3098" /><flowPara
          style="font-size:10px"
@@ -517,7 +517,7 @@
          y="405.45541"
          x="360.14148"
          id="tspan3937"
-         sodipodi:role="line">24pt/17u</tspan></text>
+         sodipodi:role="line">24pt/18u</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3939"

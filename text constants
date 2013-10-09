@@ -1,0 +1,7 @@
+Name             size        weight     transform
+
+Normal text      24pt/18u    Light
+Header text      18pt/14u    Normal     Capitalized
+Small text       12pt/9u     Normal     
+Primary/active   24pt/18u    Semibold
+
