@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="template.svg"
+   sodipodi:docname="buttonRow.svg"
    inkscape:export-filename="C:\Users\Stephan\Documents\GitHub\glacier-controls-spec\vkb-1.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70470828"
-     inkscape:cx="312.51221"
-     inkscape:cy="548.7566"
+     inkscape:zoom="1.5106048"
+     inkscape:cx="477.4445"
+     inkscape:cy="581.08253"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -3343,7 +3343,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3376,7 +3376,7 @@
        y="15.362183" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="buttonRow"
      id="layer4"
      inkscape:groupmode="layer">
@@ -4369,9 +4369,43 @@
          id="tspan8131"
          x="416.46024"
          y="941.27582">swim</tspan></text>
-  </g>
+    <flowRoot
+       transform="translate(3.6116887,493.14897)"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowRoot10581"
+       xml:space="preserve"><flowRegion
+         id="flowRegion10583"><rect
+           y="492.0032"
+           x="32.286308"
+           height="51.986427"
+           width="442.70547"
+           id="rect10585" /></flowRegion><flowPara
+         id="flowPara10587">The cyan rectangle is shown on press, but the handler is called on release, and if the release is outside the button, the handler is not called, and the rectangle fades away, or goes back to it's former position.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10589"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       transform="translate(3.6116887,-299.44868)"><flowRegion
+         id="flowRegion10591"><rect
+           id="rect10593"
+           width="442.70547"
+           height="51.986427"
+           x="32.286308"
+           y="492.0032" /></flowRegion><flowPara
+         id="flowPara10595">The 10u padding is not part of any of the buttons, it is part of the ButtonRow as a whole, and it always appears even if there is only one Button.</flowPara><flowPara
+         id="flowPara10599" /><flowPara
+         id="flowPara10601">A single-button ButtonRow is not recommended</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10603"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><flowRegion
+         id="flowRegion10605"><rect
+           id="rect10607"
+           width="38.794102"
+           height="26.857454"
+           x="-286.97687"
+           y="122.29848" /></flowRegion><flowPara
+         id="flowPara10609"></flowPara></flowRoot>  </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="buttonRow_cont"
      id="layer5"
      inkscape:groupmode="layer">
@@ -4744,21 +4778,6 @@
          x="236.71025"
          y="307.05099">d</tspan></text>
     <text
-       sodipodi:linespacing="125%"
-       id="text7538"
-       y="323.04752"
-       x="51.443565"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-       xml:space="preserve"><tspan
-         y="323.04752"
-         x="51.443565"
-         sodipodi:role="line"
-         id="tspan7540">for (var item in buttonRow) tw+=item.width</tspan><tspan
-         id="tspan7542"
-         y="335.54752"
-         x="51.443565"
-         sodipodi:role="line">d = tanker.width+(width-tw-2*10u)/count</tspan></text>
-    <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
        x="51.443565"
@@ -4860,21 +4879,6 @@
          x="265.28607"
          sodipodi:role="line"
          id="tspan7582">d_old</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-       x="51.443565"
-       y="555.27582"
-       id="text7584"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan7586"
-         sodipodi:role="line"
-         x="51.443565"
-         y="555.27582">for (var item in buttonRow) tw+=item.width</tspan><tspan
-         sodipodi:role="line"
-         x="51.443565"
-         y="567.77582"
-         id="tspan7588">d = tanker.width+(width-tw-2*10u)/count</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7590"
