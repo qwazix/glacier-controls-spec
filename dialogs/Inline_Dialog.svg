@@ -56,15 +56,15 @@
                 <text id="#313131-with-top-and" stroke="#979797" fill="#000000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
                     <tspan x="45" y="354">#313131 with top and bottom dropshadows</tspan>
                 </text>
-                <text id="15px" stroke="#979797" fill="#000000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
-                    <tspan x="45" y="384">15px</tspan>
+                <text id="15u-#000000" stroke="#979797" fill="#000000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
+                    <tspan x="45" y="384">15u #000000</tspan>
                 </text>
                 <text id="tspan8383" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Open Sans" font-size="17.623521" font-weight="bold">
                     <tspan x="21" y="416">A</tspan>
                 </text>
                 <path d="M35.39624,401 L38.56623,401 L38.56623,418.03866 L35,418.03866" id="path8385" stroke="#000000" sketch:type="MSShapeGroup"></path>
-                <text id="24px-/-Light" fill="#000000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
-                    <tspan x="45" y="413">24px / Light</tspan>
+                <text id="24pt-/-Light" fill="#000000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12" font-weight="normal">
+                    <tspan x="45" y="413">24pt / Light</tspan>
                 </text>
                 <text id="tspan8671" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Open Sans" font-size="17.623521" font-weight="bold">
                     <tspan x="22" y="445">a</tspan>
