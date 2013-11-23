@@ -148,13 +148,19 @@
                 <path d="M0.695652174,3.0625 L0.695652174,20.9375" id="Line" stroke="#0091E5" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
                 <path d="M8.65217391,3.0625 L8.65217391,20.9375" id="Line" stroke="#0091E5" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
             </g>
-            <g id="battery" sketch:type="MSLayerGroup" transform="translate(135.000000, 489.470572)" fill="#FFFFFF">
-                <rect id="Rectangle-7" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="0" width="26" height="32" rx="8.4790573"></rect>
-                <rect id="Rectangle-7" sketch:type="MSShapeGroup" x="0" y="9.93103448" width="26" height="22.0689655" rx="8.4790573"></rect>
+            <g id="battery" sketch:type="MSLayerGroup" transform="translate(101.808830, 487.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-7" fill-opacity="0.1" sketch:type="MSShapeGroup" x="-2.27373675e-13" y="2" width="26.3823399" height="32.4705722" rx="8.4790573"></rect>
+                <path d="M15.1911699,2 C15.1911699,0.895430446 14.2957395,0 13.1911699,0 C12.0866004,0 11.1911699,0.895430446 11.1911699,2 L15.1911699,2 Z" id="Oval-41" fill-opacity="0.103285846" sketch:type="MSShapeGroup"></path>
             </g>
-            <g id="battery" sketch:type="MSLayerGroup" transform="translate(293.500000, 489.470572)">
-                <rect id="Rectangle-7" fill-opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="26" height="32" rx="8.4790573"></rect>
-                <rect id="Rectangle-7" fill="#D92723" sketch:type="MSShapeGroup" x="0" y="23" width="26" height="9" rx="8.4790573"></rect>
+            <g id="battery" sketch:type="MSLayerGroup" transform="translate(134.808830, 487.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-7" fill-opacity="0.1" sketch:type="MSShapeGroup" x="-2.27373675e-13" y="2" width="26.3823399" height="32.4705722" rx="8.4790573"></rect>
+                <rect id="Rectangle-7" sketch:type="MSShapeGroup" x="-1.13686838e-13" y="29.4705722" width="26.3823399" height="5" rx="8.4790573"></rect>
+                <path d="M15.1911699,2 C15.1911699,0.895430446 14.2957395,0 13.1911699,0 C12.0866004,0 11.1911699,0.895430446 11.1911699,2 L15.1911699,2 Z" id="Oval-41" fill-opacity="0.103285846" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="battery_empty" sketch:type="MSLayerGroup" transform="translate(293.500000, 487.470572)">
+                <rect id="Rectangle-7" fill-opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0.308830063" y="1.52942785" width="26.3823399" height="32.4705722" rx="8.4790573"></rect>
+                <path d="M15.5,1.52942785 C15.5,0.424858294 14.6045696,-0.470572152 13.5,-0.470572152 C12.3954304,-0.470572152 11.5,0.424858294 11.5,1.52942785 L15.5,1.52942785 Z" id="Oval-41" fill-opacity="0.103285846" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-7" fill="#D92723" sketch:type="MSShapeGroup" x="0.308830063" y="25" width="26.3823399" height="9" rx="8.4790573"></rect>
             </g>
             <path d="M171.5,514.5 L282.504501,514.5" id="Line" stroke="#FFFFFF" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
             <path id="Line-decoration-1" d="M271.7,517.5 C275.48,516.45 278.72,515.55 282.5,514.5 C278.72,513.45 275.48,512.55 271.7,511.5" stroke="#FFFFFF" stroke-linecap="square"></path>
@@ -227,6 +233,7 @@
             <text id="focused" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
                 <tspan x="205" y="404">focused</tspan>
             </text>
+            <g id="battery" sketch:type="MSLayerGroup" transform="translate(293.808830, 489.000000)"></g>
         </g>
     </g>
 </svg>
