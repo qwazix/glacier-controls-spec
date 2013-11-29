@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="612px" height="559px" viewBox="0 0 612 559" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>statusbar_icons</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="63.8671875%" id="radialGradient-1">
+            <stop stop-color="#0091E5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="statusbar_icons" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-25" stroke="#979797" fill="#474747" sketch:type="MSShapeGroup" x="0" y="0" width="612" height="562"></rect>
+            <g id="cell-bars" sketch:type="MSLayerGroup" transform="translate(134.000000, 37.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="28" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="21" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="14" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="7" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="4" rx="8.4790573"></rect>
+            </g>
+            <g id="cell-bars" sketch:type="MSLayerGroup" transform="translate(213.000000, 37.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="28" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="21" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="14" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="7" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="4" rx="8.4790573"></rect>
+            </g>
+            <g id="cell-bars" sketch:type="MSLayerGroup" transform="translate(292.000000, 37.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="28" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="21" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="14" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="7" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="4" rx="8.4790573"></rect>
+            </g>
+            <g id="cell-bars" sketch:type="MSLayerGroup" transform="translate(371.000000, 37.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="28" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="21" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="14" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="7" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="4" rx="8.4790573"></rect>
+            </g>
+            <g id="cell-bars" sketch:type="MSLayerGroup" transform="translate(450.000000, 37.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="28" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="21" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="14" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="7" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="4" rx="8.4790573"></rect>
+            </g>
+            <g id="cell-bars" sketch:type="MSLayerGroup" transform="translate(529.000000, 37.000000)" fill="#0091E5">
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="28" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="21" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="14" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="7" width="29" height="4" rx="8.4790573"></rect>
+                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="4" rx="8.4790573"></rect>
+            </g>
+            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(129.000000, 112.000000)" fill-opacity="0.101418888" fill="#FFFFFF">
+                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(208.000000, 112.000000)" fill="#FFFFFF">
+                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" fill-opacity="0.101418888" sketch:type="MSShapeGroup"></path>
+                <path d="M19.7011414,32.1276042 C19.7011414,32.1276042 19.7011414,32.1276041 12.25,24.6210933 C12.25,22.9359706 16.7938842,21.3285293 19.7011412,21.3285289 C22.6083983,21.3285286 27.2548827,22.8984164 27.2548827,24.6210933 L19.7011414,32.1276042 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(287.000000, 112.000000)" fill="#FFFFFF">
+                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" fill-opacity="0.101418888" sketch:type="MSShapeGroup"></path>
+                <path d="M19.7011414,32.1276042 C19.7011414,32.1276042 23.1235474,35.575418 8.01074219,20.3178711 C8.01074219,19.706543 11.2128296,14.6835927 19.7011414,14.6835937 C28.1894531,14.6835948 31.4355469,19.4243164 31.4355469,20.3178712 C16.6032837,35.5754181 19.7011414,32.1276042 19.7011414,32.1276042 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(366.000000, 112.000000)" fill="#FFFFFF">
+                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" fill-opacity="0.101418888" sketch:type="MSShapeGroup"></path>
+                <path d="M19.7011414,32.1276042 C19.7011414,32.1276042 19.8414124,32.2476852 4.72860718,16.9901383 C4.72860718,15.3050156 9.24407959,8.06445188 19.7011414,8.06445312 C30.1582031,8.0644543 34.6736755,15.2674614 34.6736755,16.9901383 C19.8414124,32.2476852 19.7011414,32.1276042 19.7011414,32.1276042 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(445.000000, 112.000000)" fill="#FFFFFF">
+                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(129.000000, 157.000000)" fill="url(#radialGradient-1)">
+                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(208.000000, 157.000000)">
+                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" fill-opacity="0.101418888" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M19.7011414,32.1276042 C19.7011414,32.1276042 19.7011414,32.1276041 12.25,24.6210933 C12.25,22.9359706 16.7938842,21.3285293 19.7011412,21.3285289 C22.6083983,21.3285286 27.2548827,22.8984164 27.2548827,24.6210933 L19.7011414,32.1276042 Z" id="Path-1" fill="#0091E5" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(287.000000, 157.000000)">
+                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" fill-opacity="0.101418888" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M19.7011414,32.1276042 C19.7011414,32.1276042 23.1235474,35.575418 8.01074219,20.3178711 C8.01074219,19.706543 11.2128296,14.6835927 19.7011414,14.6835937 C28.1894531,14.6835948 31.4355469,19.4243164 31.4355469,20.3178712 C16.6032837,35.5754181 19.7011414,32.1276042 19.7011414,32.1276042 Z" id="Path-1" fill="#0091E5" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(366.000000, 157.000000)">
+                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" fill-opacity="0.101418888" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M19.7011414,32.1276042 C19.7011414,32.1276042 19.8414124,32.2476852 4.72860718,16.9901383 C4.72860718,15.3050156 9.24407959,8.06445188 19.7011414,8.06445312 C30.1582031,8.0644543 34.6736755,15.2674614 34.6736755,16.9901383 C19.8414124,32.2476852 19.7011414,32.1276042 19.7011414,32.1276042 Z" id="Path-1" fill="#0091E5" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(445.000000, 157.000000)" fill="#0091E5">
+                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="bluetooth" sketch:type="MSLayerGroup" transform="translate(132.000000, 219.000000)">
+                <path d="M16,32 C24.8365564,32 32,24.8365564 32,16 C32,7.16344357 24.8365564,0 16,0 C7.16344357,0 0,7.16344357 0,16 C0,24.8365564 7.16344357,32 16,32 Z" id="Oval-1" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M14.4411399,13.1183685 L14.4411399,3.86456751 L24.9406168,11.3254361 L18.0845429,16.1973233 L24.9406168,21.4401575 L14.4411399,28.9104348 L14.4411399,19.9193885 L9.21600497,23.0665315 L6.85476898,21.2232698 L14.4411399,16.3875012 L6.85476898,11.3464049 L9.21600495,9.66852407 L14.4411399,13.1183685 Z M16.9406294,9.3510799 L16.8647239,13.3880587 L20.1714089,11.2563704 L16.9406294,9.3510799 Z M16.9406294,19.8161962 L16.8647239,23.853175 L20.1714089,21.7214866 L16.9406294,19.8161962 Z" id="Path-19" fill="#292929" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="bluetooth" sketch:type="MSLayerGroup" transform="translate(212.000000, 219.000000)">
+                <path d="M16,32 C24.8365564,32 32,24.8365564 32,16 C32,7.16344357 24.8365564,0 16,0 C7.16344357,0 0,7.16344357 0,16 C0,24.8365564 7.16344357,32 16,32 Z" id="Oval-1" fill="#0091E5" sketch:type="MSShapeGroup"></path>
+                <path d="M14.4411399,13.1183685 L14.4411399,3.86456751 L24.9406168,11.3254361 L18.0845429,16.1973233 L24.9406168,21.4401575 L14.4411399,28.9104348 L14.4411399,19.9193885 L9.21600497,23.0665315 L6.85476898,21.2232698 L14.4411399,16.3875012 L6.85476898,11.3464049 L9.21600495,9.66852407 L14.4411399,13.1183685 Z M16.9406294,9.3510799 L16.8647239,13.3880587 L20.1714089,11.2563704 L16.9406294,9.3510799 Z M16.9406294,19.8161962 L16.8647239,23.853175 L20.1714089,21.7214866 L16.9406294,19.8161962 Z" id="Path-19" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="nfc" sketch:type="MSLayerGroup" transform="translate(148.000000, 302.572298) rotate(-49.000000) translate(-148.000000, -302.572298) translate(132.000000, 286.572298)" fill="#FFFFFF">
+                <path d="M15.4919223,0.00791391337 C15.6606363,0.00265100006 15.8300086,2.84217094e-14 16,2.84217094e-14 C24.8365564,2.84217094e-14 32,7.16344357 32,16 C32,24.8365564 24.8365564,32 16,32 C7.16344357,32 2.84217094e-14,24.8365564 2.84217094e-14,16 C2.84217094e-14,15.8300086 0.00265100006,15.6606363 0.00791391337,15.4919223 C0.267499682,23.5485006 6.88033519,30 15,30 C23.2842717,30 30,23.2842717 30,15 C30,6.88033519 23.5485006,0.267499682 15.4919223,0.0079139134 Z" id="Oval-2" sketch:type="MSShapeGroup"></path>
+                <path d="M15.519157,4.71593342 C15.6786058,4.70925496 15.838909,4.70588235 16,4.70588235 C22.2375692,4.70588235 27.2941176,9.76243075 27.2941176,16 C27.2941176,22.2375692 22.2375692,27.2941176 16,27.2941176 C9.76243075,27.2941176 4.70588235,22.2375692 4.70588235,16 C4.70588235,15.838909 4.70925496,15.6786058 4.71593342,15.519157 C4.95676819,21.0233196 9.49530742,25.4117647 15.0588235,25.4117647 C20.7765953,25.4117647 25.4117647,20.7765953 25.4117647,15.0588235 C25.4117647,9.49530742 21.0233196,4.95676819 15.519157,4.71593342 Z" id="Oval-2" sketch:type="MSShapeGroup"></path>
+                <circle id="Oval-6" sketch:type="MSShapeGroup" cx="15.9117647" cy="15.9117647" r="5.5"></circle>
+            </g>
+            <g id="nfc" sketch:type="MSLayerGroup" transform="translate(228.000000, 302.572298) rotate(-49.000000) translate(-228.000000, -302.572298) translate(212.000000, 286.572298)" fill="#0091E5">
+                <path d="M15.4919223,0.00791391337 C15.6606363,0.00265100006 15.8300086,0 16,0 C24.8365564,0 32,7.16344357 32,16 C32,24.8365564 24.8365564,32 16,32 C7.16344357,32 2.84217094e-14,24.8365564 2.84217094e-14,16 C2.84217094e-14,15.8300086 0.00265100006,15.6606363 0.00791391337,15.4919223 C0.267499682,23.5485006 6.88033519,30 15,30 C23.2842717,30 30,23.2842717 30,15 C30,6.88033519 23.5485006,0.267499682 15.4919223,0.0079139134 Z" id="Oval-2" sketch:type="MSShapeGroup"></path>
+                <path d="M15.519157,4.71593342 C15.6786058,4.70925496 15.838909,4.70588235 16,4.70588235 C22.2375692,4.70588235 27.2941176,9.76243075 27.2941176,16 C27.2941176,22.2375692 22.2375692,27.2941176 16,27.2941176 C9.76243075,27.2941176 4.70588235,22.2375692 4.70588235,16 C4.70588235,15.838909 4.70925496,15.6786058 4.71593342,15.519157 C4.95676819,21.0233196 9.49530742,25.4117647 15.0588235,25.4117647 C20.7765953,25.4117647 25.4117647,20.7765953 25.4117647,15.0588235 C25.4117647,9.49530742 21.0233196,4.95676819 15.519157,4.71593342 Z" id="Oval-2" sketch:type="MSShapeGroup"></path>
+                <circle id="Oval-6" sketch:type="MSShapeGroup" cx="15.9117647" cy="15.9117647" r="5.5"></circle>
+            </g>
+            <g id="gps" sketch:type="MSLayerGroup" transform="translate(154.000000, 366.807584) rotate(-43.000000) translate(-154.000000, -366.807584) translate(139.000000, 349.807584)" fill="#FFFFFF">
+                <rect id="Rectangle-20" sketch:type="MSShapeGroup" x="-6.09036631e-14" y="11.5744681" width="18" height="10.8510638" rx="8"></rect>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="23.8723404" width="7.5" height="2.89361702"></rect>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="27.4893617" width="7.5" height="2.89361702"></rect>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="31.106383" width="7.5" height="2.89361702"></rect>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="0" width="7.5" height="2.89361702"></rect>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="3.61702128" width="7.5" height="2.89361702"></rect>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="7.23404255" width="7.5" height="2.89361702"></rect>
+                <rect id="Rectangle-14" sketch:type="MSShapeGroup" x="8.25" y="7.95744681" width="1.5" height="18.0851064"></rect>
+                <path d="M22.8207767,22.4136664 C22.6968303,22.4215353 22.5717874,22.4255319 22.4457767,22.4255319 C19.3391748,22.4255319 16.8207767,19.9964387 16.8207767,17 C16.8207767,14.0035613 19.3391748,11.5744681 22.4457767,11.5744681 C22.5717874,11.5744681 22.6968303,11.5784647 22.8207767,11.5863336 L22.8207767,22.4136664 Z" id="Oval-7" sketch:type="MSShapeGroup"></path>
+                <path d="M20.625,17 L25.6776123,17" id="Line" stroke="#FFFFFF" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M23.625,15.3419732 C23.8546734,15.2451831 24.1083357,15.1914894 24.375,15.1914894 C25.410534,15.1914894 26.25,16.0011871 26.25,17 C26.25,17.9988129 25.410534,18.8085106 24.375,18.8085106 C24.1083357,18.8085106 23.8546734,18.7548169 23.625,18.6580268 C24.2872143,18.3789531 24.75,17.7416048 24.75,17 C24.75,16.2583952 24.2872143,15.6210469 23.625,15.3419732 Z" id="Oval-8" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="gps" sketch:type="MSLayerGroup" transform="translate(228.000000, 366.807584) rotate(-43.000000) translate(-228.000000, -366.807584) translate(213.000000, 349.807584)" fill="#0091E5">
+                <rect id="Rectangle-20" sketch:type="MSShapeGroup" x="-1.13686838e-13" y="11.5744681" width="18" height="10.8510638" rx="8"></rect>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="23.8723404" width="7.5" height="2.89361702"></rect>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="27.4893617" width="7.5" height="2.89361702"></rect>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="31.106383" width="7.5" height="2.89361702"></rect>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="5.68434189e-14" width="7.5" height="2.89361702"></rect>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="3.61702128" width="7.5" height="2.89361702"></rect>
+                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="7.23404255" width="7.5" height="2.89361702"></rect>
+                <rect id="Rectangle-14" sketch:type="MSShapeGroup" x="8.25" y="7.95744681" width="1.5" height="18.0851064"></rect>
+                <path d="M22.8207767,22.4136664 C22.6968303,22.4215353 22.5717874,22.4255319 22.4457767,22.4255319 C19.3391748,22.4255319 16.8207767,19.9964387 16.8207767,17 C16.8207767,14.0035613 19.3391748,11.5744681 22.4457767,11.5744681 C22.5717874,11.5744681 22.6968303,11.5784647 22.8207767,11.5863336 L22.8207767,22.4136664 Z" id="Oval-7" sketch:type="MSShapeGroup"></path>
+                <path d="M20.625,17 L25.6776123,17" id="Line" stroke="#0091E5" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M23.625,15.3419732 C23.8546734,15.2451831 24.1083357,15.1914894 24.375,15.1914894 C25.410534,15.1914894 26.25,16.0011871 26.25,17 C26.25,17.9988129 25.410534,18.8085106 24.375,18.8085106 C24.1083357,18.8085106 23.8546734,18.7548169 23.625,18.6580268 C24.2872143,18.3789531 24.75,17.7416048 24.75,17 C24.75,16.2583952 24.2872143,15.6210469 23.625,15.3419732 Z" id="Oval-8" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="play-btn" sketch:type="MSLayerGroup" transform="translate(139.000000, 426.470572)">
+                <path d="M14.5217391,0 L14.5217391,24 L35.5217391,13.0909091 L35.5217391,10.9090909 L14.5217391,0 Z" id="path5357-5" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M0.695652174,3.0625 L0.695652174,20.9375" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M8.65217391,3.0625 L8.65217391,20.9375" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="play-btn" sketch:type="MSLayerGroup" transform="translate(215.000000, 426.470572)">
+                <path d="M14.5217391,0 L14.5217391,24 L35.5217391,13.0909091 L35.5217391,10.9090909 L14.5217391,0 Z" id="path5357-5" fill="#0091E5" sketch:type="MSShapeGroup"></path>
+                <path d="M0.695652174,3.0625 L0.695652174,20.9375" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M8.65217391,3.0625 L8.65217391,20.9375" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="play-btn" sketch:type="MSLayerGroup" transform="translate(288.500000, 426.470572)">
+                <path d="M14.5217391,0 L14.5217391,24 L35.5217391,13.0909091 L35.5217391,10.9090909 L14.5217391,0 Z" id="path5357-5" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M0.695652174,3.0625 L0.695652174,20.9375" id="Line" stroke="#0091E5" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M8.65217391,3.0625 L8.65217391,20.9375" id="Line" stroke="#0091E5" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="battery" sketch:type="MSLayerGroup" transform="translate(101.808830, 487.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-7" fill-opacity="0.1" sketch:type="MSShapeGroup" x="-2.27373675e-13" y="2" width="26.3823399" height="32.4705722" rx="8.4790573"></rect>
+                <path d="M15.1911699,2 C15.1911699,0.895430446 14.2957395,0 13.1911699,0 C12.0866004,0 11.1911699,0.895430446 11.1911699,2 L15.1911699,2 Z" id="Oval-41" fill-opacity="0.103285846" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="battery" sketch:type="MSLayerGroup" transform="translate(134.808830, 487.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-7" fill-opacity="0.1" sketch:type="MSShapeGroup" x="-2.27373675e-13" y="2" width="26.3823399" height="32.4705722" rx="8.4790573"></rect>
+                <rect id="Rectangle-7" sketch:type="MSShapeGroup" x="-1.13686838e-13" y="29.4705722" width="26.3823399" height="5" rx="8.4790573"></rect>
+                <path d="M15.1911699,2 C15.1911699,0.895430446 14.2957395,0 13.1911699,0 C12.0866004,0 11.1911699,0.895430446 11.1911699,2 L15.1911699,2 Z" id="Oval-41" fill-opacity="0.103285846" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="battery_empty" sketch:type="MSLayerGroup" transform="translate(293.500000, 487.470572)">
+                <rect id="Rectangle-7" fill-opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0.308830063" y="1.52942785" width="26.3823399" height="32.4705722" rx="8.4790573"></rect>
+                <path d="M15.5,1.52942785 C15.5,0.424858294 14.6045696,-0.470572152 13.5,-0.470572152 C12.3954304,-0.470572152 11.5,0.424858294 11.5,1.52942785 L15.5,1.52942785 Z" id="Oval-41" fill-opacity="0.103285846" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-7" fill="#D92723" sketch:type="MSShapeGroup" x="0.308830063" y="25" width="26.3823399" height="9" rx="8.4790573"></rect>
+            </g>
+            <path d="M171.5,514.5 L282.504501,514.5" id="Line" stroke="#FFFFFF" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path id="Line-decoration-1" d="M271.7,517.5 C275.48,516.45 278.72,515.55 282.5,514.5 C278.72,513.45 275.48,512.55 271.7,511.5" stroke="#FFFFFF" stroke-linecap="square"></path>
+            <text id="normal" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="525" y="132">normal</tspan>
+            </text>
+            <text id="normal" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="129" y="270">normal</tspan>
+            </text>
+            <text id="focused" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="523" y="178">focused</tspan>
+            </text>
+            <text id="focused" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="521" y="92">focused</tspan>
+            </text>
+            <text id="cellular" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="31" y="59">cellular</tspan>
+            </text>
+            <text id="wifi" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="31" y="154">wifi</tspan>
+            </text>
+            <text id="bluetooth" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="31" y="243">bluetooth</tspan>
+            </text>
+            <text id="nfc" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="31" y="309">nfc</tspan>
+            </text>
+            <text id="gps" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="31" y="376">gps</tspan>
+            </text>
+            <text id="music" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="31" y="444">music</tspan>
+            </text>
+            <text id="battery" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="31" y="510">battery</tspan>
+            </text>
+            <text id="focused" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="205" y="270">focused</tspan>
+            </text>
+            <text id="normal" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="129" y="339">normal</tspan>
+            </text>
+            <text id="focused" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="205" y="339">focused</tspan>
+            </text>
+            <text id="normal" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="129" y="404">normal</tspan>
+            </text>
+            <text id="no-playlist" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="126" y="470">no playlist</tspan>
+            </text>
+            <text id="#D92723" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="279" y="540">#D92723</tspan>
+            </text>
+            <text id="once-10%-reached" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="171" y="502">once 10% reached</tspan>
+            </text>
+            <text id="battery-gauge-change" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="339" y="517">battery gauge changes are code driven.</tspan>
+            </text>
+            <text id="roundness-:-2u-/-col" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="339" y="500">roundness : 2u / color : #FFFFFF / bgopacity : 10 </tspan>
+            </text>
+            <text id="play" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="216" y="470">play</tspan>
+            </text>
+            <text id="pause" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="286" y="470">pause</tspan>
+            </text>
+            <text id="focused" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="205" y="404">focused</tspan>
+            </text>
+            <g id="battery" sketch:type="MSLayerGroup" transform="translate(293.808830, 489.000000)"></g>
+        </g>
+    </g>
+</svg>
