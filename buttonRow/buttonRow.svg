@@ -26,18 +26,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5106048"
-     inkscape:cx="477.4445"
-     inkscape:cy="581.08253"
+     inkscape:zoom="1.6616653"
+     inkscape:cx="318.23658"
+     inkscape:cy="593.9084"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-height="1173"
      inkscape:window-x="0"
-     inkscape:window-y="-25"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
      inkscape:snap-global="true"
@@ -3343,7 +3343,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3810,7 +3810,7 @@
          sodipodi:role="line"
          id="tspan6245-0"
          x="613.37402"
-         y="163.18089">24pt/17u</tspan></text>
+         y="163.18089">Nnormal Text (t.n)</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6446-9"
@@ -4173,7 +4173,7 @@
          sodipodi:role="line"
          id="tspan7198"
          x="208.68207"
-         y="91.185295">(width-2*10u)/count</tspan></text>
+         y="91.185295">(width-2*p.s)/count</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -4196,7 +4196,7 @@
          y="91.185295"
          x="373.47052"
          id="tspan7234"
-         sodipodi:role="line">(width-2*10u)/count</tspan></text>
+         sodipodi:role="line">(width-2*p.s)/count</tspan></text>
     <rect
        y="811.42303"
        x="-474.27252"
@@ -4286,7 +4286,7 @@
            width="442.70547"
            id="rect8049" /></flowRegion><flowPara
          id="flowPara8051">non-exclusive: clicking on items just highlights them</flowPara><flowPara
-         id="flowPara8155">driagging individual items to other items may also work but that is more of novelty factor than requirement</flowPara></flowRoot>    <flowRoot
+         id="flowPara8155">dragging individual items to other items may also work but that is more of novelty factor than requirement</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8083"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -4403,7 +4403,7 @@
            height="26.857454"
            x="-286.97687"
            y="122.29848" /></flowRegion><flowPara
-         id="flowPara10609"></flowPara></flowRoot>  </g>
+         id="flowPara10609" /></flowRoot>  </g>
   <g
      style="display:inline"
      inkscape:label="buttonRow_cont"
@@ -4791,7 +4791,7 @@
          sodipodi:role="line"
          x="51.443565"
          y="397.50613"
-         id="tspan7548">d = tanker.width+(width-tw-2*10u)/count</tspan></text>
+         id="tspan7548">d = tanker.width+(width-tw-2*p.s)/count</tspan></text>
     <rect
        transform="scale(-1,1)"
        style="color:#000000;fill:#313131;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"

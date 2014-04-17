@@ -26,18 +26,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77517911"
-     inkscape:cx="915.14679"
-     inkscape:cy="159.66399"
+     inkscape:zoom="1.5106048"
+     inkscape:cx="500.81848"
+     inkscape:cy="332.87582"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-height="1173"
      inkscape:window-x="0"
-     inkscape:window-y="-25"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
      inkscape:snap-global="true"
@@ -9531,7 +9531,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -10191,7 +10191,7 @@
        id="g6411">
       <path
          transform="translate(-67.65722,61.727083)"
-         d="m 433.25793,276.74908 a 20.803616,20.803616 0 1 1 -41.60723,0 20.803616,20.803616 0 1 1 41.60723,0 z"
+         d="m 433.25793,276.74908 c 0,11.48952 -9.3141,20.80362 -20.80361,20.80362 -11.48952,0 -20.80362,-9.3141 -20.80362,-20.80362 0,-11.48952 9.3141,-20.80361 20.80362,-20.80361 11.48951,0 20.80361,9.31409 20.80361,20.80361 z"
          sodipodi:ry="20.803616"
          sodipodi:rx="20.803616"
          sodipodi:cy="276.74908"
@@ -10274,7 +10274,7 @@
          sodipodi:cy="276.74908"
          sodipodi:rx="20.803616"
          sodipodi:ry="20.803616"
-         d="m 433.25793,276.74908 a 20.803616,20.803616 0 1 1 -41.60723,0 20.803616,20.803616 0 1 1 41.60723,0 z"
+         d="m 433.25793,276.74908 c 0,11.48952 -9.3141,20.80362 -20.80361,20.80362 -11.48952,0 -20.80362,-9.3141 -20.80362,-20.80362 0,-11.48952 9.3141,-20.80361 20.80362,-20.80361 11.48951,0 20.80361,9.31409 20.80361,20.80361 z"
          transform="translate(-67.65722,227.79253)" />
       <text
          xml:space="preserve"
@@ -10751,7 +10751,7 @@
          id="tspan5077">screen</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
        x="472.36465"
        y="816.73132"
        id="text5079"
@@ -10759,6 +10759,6 @@
          sodipodi:role="line"
          id="tspan5081"
          x="472.36465"
-         y="816.73132">20u</tspan></text>
+         y="816.73132">p.l</tspan></text>
   </g>
 </svg>

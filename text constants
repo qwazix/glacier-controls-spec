@@ -2,6 +2,31 @@ Name             size        weight     transform
 
 Normal text      24pt/18u    Light
 Header text      18pt/14u    Normal     Capitalized
-Small text       12pt/9u     Normal     
+Extrasmall text	 12pt/9u     Normal     
+Small text 	 16pt/12u
 Primary/active   24pt/18u    Semibold
+Extralarge text	 32pt/24u
 
+Extra large padding (padding usually from the edge of the screen)
+p.xl = 32u
+
+Large padding (padding usually from the edge of the screen)
+p.l = 24u
+
+Medium padding (padding of text inside elements
+p.m = 16u
+
+Small padding (very small elements)
+p.s = 8u
+
+List size items
+l.s 48u
+l.m 60u
+l.l 84u
+
+Icon sizes
+i.xs 24u
+i.s  32u
+i.m  48u
+i.l  64u
+i.xl 96u

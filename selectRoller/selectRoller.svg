@@ -26,18 +26,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.84920128"
-     inkscape:cx="219.22647"
-     inkscape:cy="540.42369"
+     inkscape:zoom="1.6548531"
+     inkscape:cx="306.96011"
+     inkscape:cy="546.00362"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-height="1173"
      inkscape:window-x="0"
-     inkscape:window-y="-25"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
      inkscape:snap-global="false"
@@ -148,7 +148,7 @@
        xlink:href="#linearGradient22460"
        id="linearGradient4618"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-447.67395,405.8762)"
+       gradientTransform="translate(-447.67395,428.83896)"
        x1="591.4472"
        y1="456.0033"
        x2="591.4472"
@@ -158,7 +158,7 @@
        xlink:href="#linearGradient22460"
        id="linearGradient4705"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-193.75412,405.8762)"
+       gradientTransform="translate(-193.75412,428.83896)"
        x1="591.4472"
        y1="456.0033"
        x2="591.4472"
@@ -168,7 +168,7 @@
        xlink:href="#linearGradient22460"
        id="linearGradient4711"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-447.67395,-1112.3975)"
+       gradientTransform="translate(-447.67395,-1135.3603)"
        x1="591.4472"
        y1="456.0033"
        x2="591.4472"
@@ -178,7 +178,7 @@
        xlink:href="#linearGradient22460"
        id="linearGradient4717"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-193.43005,-1112.3975)"
+       gradientTransform="translate(-193.43005,-1135.3603)"
        x1="591.4472"
        y1="456.0033"
        x2="591.4472"
@@ -192,7 +192,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -539,7 +539,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:7.87315083000000016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       style="font-size:7.87315083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
        x="559.35883"
        y="298.75226"
        id="text22438"
@@ -547,7 +547,7 @@
          sodipodi:role="line"
          id="tspan22440"
          x="559.35883"
-         y="298.75226">14u</tspan></text>
+         y="298.75226">p.m</tspan></text>
     <rect
        style="color:#000000;fill:url(#linearGradient22466);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect22450"
@@ -623,13 +623,13 @@
        id="text4451"
        y="307.75232"
        x="474.92996"
-       style="font-size:4.99202013px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       style="font-size:4.99202013000000022px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
        xml:space="preserve"><tspan
-         style="fill:#ffff00;fill-opacity:1"
+         style="fill:#ffff00;fill-opacity:1;-inkscape-font-specification:Ubuntu Mono;font-family:Ubuntu Mono;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          y="307.75232"
          x="474.92996"
          id="tspan4453"
-         sodipodi:role="line">32u</tspan></text>
+         sodipodi:role="line">p.l</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4474"
@@ -900,54 +900,54 @@
          style="fill:#000000">how Rollers wrap around</tspan></text>
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 23.90625,652.39099 0,294.6875 c 24.200607,-10.56338 64.125,-31.53125 64.125,-31.53125 l 52.9375,23 69.90625,-28.96875 53.03125,19.71875 0,-276.90625 z"
+       d="m 23.90625,675.35375 0,294.6875 C 48.106857,959.47787 88.03125,938.51 88.03125,938.51 l 52.9375,23 69.90625,-28.96875 53.03125,19.71875 0,-276.90625 z"
        id="rect4596"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
     <text
        sodipodi:linespacing="192.99999%"
        id="text4598"
-       y="667.34387"
+       y="690.30664"
        x="41.609558"
        style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:192.99999475%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Light"
        xml:space="preserve"
        inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         y="667.34387"
+         y="690.30664"
          x="41.609558"
          sodipodi:role="line"
          id="tspan4659">Zebra turkeyfish</tspan><tspan
-         y="699.18884"
+         y="722.15161"
          x="41.609558"
          sodipodi:role="line"
          id="tspan4661">African glass catfish</tspan><tspan
-         y="731.03387"
+         y="753.99664"
          x="41.609558"
          sodipodi:role="line"
          id="tspan4647">African lungfish</tspan><tspan
-         y="762.87885"
+         y="785.84161"
          x="41.609558"
          sodipodi:role="line"
          id="tspan4649">Aholehole</tspan><tspan
-         y="794.72388"
+         y="817.68665"
          x="41.609558"
          sodipodi:role="line"
          id="tspan4651">Airbreathing catfish</tspan><tspan
-         y="826.56885"
+         y="849.53162"
          x="41.609558"
          sodipodi:role="line"
          id="tspan4653">Airsac catfish</tspan><tspan
-         y="858.41388"
+         y="881.37665"
          x="41.609558"
          sodipodi:role="line"
          id="tspan4655">Alaska blackfish</tspan><tspan
-         y="890.25885"
+         y="913.22162"
          x="41.609558"
          sodipodi:role="line"
          id="tspan4657" /></text>
     <rect
-       y="852.75824"
+       y="875.72101"
        x="24.080538"
        height="16.509344"
        width="239.79822"
@@ -956,11 +956,11 @@
     <path
        inkscape:connector-curvature="0"
        id="path4616"
-       d="m 19.821541,862.36016 251.601569,0"
+       d="m 19.821541,885.32292 251.601569,0"
        style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 277.84375,652.39099 0,278.9375 c 23.98505,-11.09853 55.3125,-27.53125 55.3125,-27.53125 l 52.9375,22.96875 69.9375,-28.96875 61.8125,23.03125 0,-268.4375 z"
+       d="m 277.84375,675.35375 0,278.9375 C 301.8288,943.19272 333.15625,926.76 333.15625,926.76 l 52.9375,22.96875 69.9375,-28.96875 61.8125,23.03125 0,-268.4375 z"
        id="rect4679"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
@@ -971,51 +971,51 @@
        xml:space="preserve"
        style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:192.99999475%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Light"
        x="295.52939"
-       y="671.57355"
+       y="694.53632"
        id="text4681"
        sodipodi:linespacing="192.99999%"><tspan
          id="tspan4683"
          sodipodi:role="line"
          x="295.52939"
-         y="671.57355">Zebra trout</tspan><tspan
+         y="694.53632">Zebra trout</tspan><tspan
          id="tspan4685"
          sodipodi:role="line"
          x="295.52939"
-         y="703.41852">Zebra turkeyfish</tspan><tspan
+         y="726.38129">Zebra turkeyfish</tspan><tspan
          id="tspan4687"
          sodipodi:role="line"
          x="295.52939"
-         y="735.26355">African glass catfish</tspan><tspan
+         y="758.22632">African glass catfish</tspan><tspan
          id="tspan4689"
          sodipodi:role="line"
          x="295.52939"
-         y="767.10852">African lungfish</tspan><tspan
+         y="790.07129">African lungfish</tspan><tspan
          id="tspan4691"
          sodipodi:role="line"
          x="295.52939"
-         y="798.95355">Aholehole</tspan><tspan
+         y="821.91632">Aholehole</tspan><tspan
          id="tspan4693"
          sodipodi:role="line"
          x="295.52939"
-         y="830.79852">Airbreathing catfish</tspan><tspan
+         y="853.76129">Airbreathing catfish</tspan><tspan
          id="tspan4697"
          sodipodi:role="line"
          x="295.52939"
-         y="862.64355">Airsac catfish</tspan><tspan
+         y="885.60632">Airsac catfish</tspan><tspan
          id="tspan4699"
          sodipodi:role="line"
          x="295.52939"
-         y="894.48853" /></text>
+         y="917.45129" /></text>
     <rect
        style="color:#000000;fill:url(#linearGradient4705);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4701"
        width="239.79822"
        height="16.509344"
        x="278.00037"
-       y="852.75824" />
+       y="875.72101" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 273.74137,862.36016 251.60157,0"
+       d="m 273.74137,885.32292 251.60157,0"
        id="path4703"
        inkscape:connector-curvature="0" />
     <rect
@@ -1024,17 +1024,17 @@
        width="239.79822"
        height="13.332375"
        x="24.080538"
-       y="-665.51544"
+       y="-688.47821"
        transform="scale(1,-1)" />
     <path
        style="fill:none;stroke:#474747;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 23.814894,677.14169 239.947986,0"
+       d="m 23.814894,700.10445 239.947986,0"
        id="path4713"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <rect
        transform="scale(1,-1)"
-       y="-665.51544"
+       y="-688.47821"
        x="278.32443"
        height="13.332375"
        width="239.79822"
@@ -1044,7 +1044,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4719"
-       d="m 277.60478,713.91626 239.94799,0"
+       d="m 277.60478,736.87902 239.94799,0"
        style="fill:none;stroke:#474747;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccc"
@@ -1059,13 +1059,13 @@
        transform="translate(-10.0993,141.11275)"><flowRegion
          id="flowRegion4754"><rect
            id="rect4756"
-           width="471.42102"
-           height="20.471218"
+           width="241.24405"
+           height="101.77479"
            x="32.286308"
-           y="492.0032"
+           y="471.12796"
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara4758"
-         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Ubuntu Mono Bold">The end of the list peaking out.</flowPara></flowRoot>    <flowRoot
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Ubuntu Mono Bold"
+         id="flowPara3179">The user is swiping down and the end of the list is peaking out. The list does not roll over with momentum only, it needs the user to continue pulling</flowPara></flowRoot>    <flowRoot
        transform="translate(245.51252,129.02709)"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowRoot4760"
@@ -1082,7 +1082,7 @@
        xml:space="preserve"
        id="flowRoot4768"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(-10.0993,471.09611)"><flowRegion
+       transform="translate(-10.0993,494.05887)"><flowRegion
          id="flowRegion4770"><rect
            id="rect4772"
            width="471.42102"
@@ -1094,14 +1094,14 @@
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Ubuntu Mono Bold">See http://play.qwazix.com/grog/?p=385 for more literature about how this works and a video </flowPara><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Ubuntu Mono Bold"
          id="flowPara4776">of a similar interaction</flowPara></flowRoot>    <rect
-       y="665.32404"
+       y="688.2868"
        x="532.82758"
        height="103.8968"
        width="174"
        id="rect4782"
        style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
-       y="706.50336"
+       y="729.46613"
        x="538.34753"
        height="16"
        width="16"
@@ -1111,13 +1111,18 @@
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        x="564.59326"
-       y="716.9007"
+       y="739.86346"
        id="text3955"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3957"
          x="564.59326"
-         y="716.9007"
+         y="739.86346"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">#474747</tspan></text>
+    <path
+       style="opacity:0.4;color:#000000;fill:#55ddff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 183.875,744.99401 c -14.53756,0 -26.34375,11.77494 -26.34375,26.3125 0,12.26607 8.39577,22.57869 19.75,25.5 l 0,43.65625 -12.9375,0 9.75,16.90625 9.78125,16.90625 9.75,-16.90625 9.78125,-16.90625 -12.9375,0 0,-43.65625 c 11.33936,-2.9315 19.71875,-13.24449 19.71875,-25.5 0,-14.53756 -11.77494,-26.3125 -26.3125,-26.3125 z"
+       id="path3167"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
