@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="timepicker.svg"
-   inkscape:export-filename="C:\Users\Stephan\Documents\GitHub\glacier-controls-spec\vkb-1.png"
+   inkscape:export-filename="tmp_timepicker_spec.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5106047"
-     inkscape:cx="283.57272"
-     inkscape:cy="736.3966"
+     inkscape:zoom="0.93796669"
+     inkscape:cx="76.183089"
+     inkscape:cy="519.9299"
      inkscape:document-units="px"
      inkscape:current-layer="layer10"
      showgrid="true"
@@ -6099,7 +6099,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

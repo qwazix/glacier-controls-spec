@@ -1,239 +1,1135 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="612px" height="559px" viewBox="0 0 612 559" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <title>statusbar_icons</title>
-    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
-    <defs>
-        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="63.8671875%" id="radialGradient-1">
-            <stop stop-color="#0091E5" offset="0%"></stop>
-            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
-        </radialGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="statusbar_icons" sketch:type="MSArtboardGroup">
-            <rect id="Rectangle-25" stroke="#979797" fill="#474747" sketch:type="MSShapeGroup" x="0" y="0" width="612" height="562"></rect>
-            <g id="cell-bars" sketch:type="MSLayerGroup" transform="translate(134.000000, 37.000000)" fill="#FFFFFF">
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="28" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="21" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="14" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="7" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="4" rx="8.4790573"></rect>
-            </g>
-            <g id="cell-bars" sketch:type="MSLayerGroup" transform="translate(213.000000, 37.000000)" fill="#FFFFFF">
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="28" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="21" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="14" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="7" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="4" rx="8.4790573"></rect>
-            </g>
-            <g id="cell-bars" sketch:type="MSLayerGroup" transform="translate(292.000000, 37.000000)" fill="#FFFFFF">
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="28" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="21" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="14" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="7" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="4" rx="8.4790573"></rect>
-            </g>
-            <g id="cell-bars" sketch:type="MSLayerGroup" transform="translate(371.000000, 37.000000)" fill="#FFFFFF">
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="28" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="21" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="14" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="7" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" fill-opacity="0.1" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="4" rx="8.4790573"></rect>
-            </g>
-            <g id="cell-bars" sketch:type="MSLayerGroup" transform="translate(450.000000, 37.000000)" fill="#FFFFFF">
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="28" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="21" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="14" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="7" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="4" rx="8.4790573"></rect>
-            </g>
-            <g id="cell-bars" sketch:type="MSLayerGroup" transform="translate(529.000000, 37.000000)" fill="#0091E5">
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="28" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="21" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="14" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="7" width="29" height="4" rx="8.4790573"></rect>
-                <rect id="Rectangle-2" sketch:type="MSShapeGroup" x="0" y="0" width="29" height="4" rx="8.4790573"></rect>
-            </g>
-            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(129.000000, 112.000000)" fill-opacity="0.101418888" fill="#FFFFFF">
-                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(208.000000, 112.000000)" fill="#FFFFFF">
-                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" fill-opacity="0.101418888" sketch:type="MSShapeGroup"></path>
-                <path d="M19.7011414,32.1276042 C19.7011414,32.1276042 19.7011414,32.1276041 12.25,24.6210933 C12.25,22.9359706 16.7938842,21.3285293 19.7011412,21.3285289 C22.6083983,21.3285286 27.2548827,22.8984164 27.2548827,24.6210933 L19.7011414,32.1276042 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(287.000000, 112.000000)" fill="#FFFFFF">
-                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" fill-opacity="0.101418888" sketch:type="MSShapeGroup"></path>
-                <path d="M19.7011414,32.1276042 C19.7011414,32.1276042 23.1235474,35.575418 8.01074219,20.3178711 C8.01074219,19.706543 11.2128296,14.6835927 19.7011414,14.6835937 C28.1894531,14.6835948 31.4355469,19.4243164 31.4355469,20.3178712 C16.6032837,35.5754181 19.7011414,32.1276042 19.7011414,32.1276042 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(366.000000, 112.000000)" fill="#FFFFFF">
-                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" fill-opacity="0.101418888" sketch:type="MSShapeGroup"></path>
-                <path d="M19.7011414,32.1276042 C19.7011414,32.1276042 19.8414124,32.2476852 4.72860718,16.9901383 C4.72860718,15.3050156 9.24407959,8.06445188 19.7011414,8.06445312 C30.1582031,8.0644543 34.6736755,15.2674614 34.6736755,16.9901383 C19.8414124,32.2476852 19.7011414,32.1276042 19.7011414,32.1276042 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(445.000000, 112.000000)" fill="#FFFFFF">
-                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(129.000000, 157.000000)" fill="url(#radialGradient-1)">
-                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(208.000000, 157.000000)">
-                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" fill-opacity="0.101418888" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-                <path d="M19.7011414,32.1276042 C19.7011414,32.1276042 19.7011414,32.1276041 12.25,24.6210933 C12.25,22.9359706 16.7938842,21.3285293 19.7011412,21.3285289 C22.6083983,21.3285286 27.2548827,22.8984164 27.2548827,24.6210933 L19.7011414,32.1276042 Z" id="Path-1" fill="#0091E5" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(287.000000, 157.000000)">
-                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" fill-opacity="0.101418888" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-                <path d="M19.7011414,32.1276042 C19.7011414,32.1276042 23.1235474,35.575418 8.01074219,20.3178711 C8.01074219,19.706543 11.2128296,14.6835927 19.7011414,14.6835937 C28.1894531,14.6835948 31.4355469,19.4243164 31.4355469,20.3178712 C16.6032837,35.5754181 19.7011414,32.1276042 19.7011414,32.1276042 Z" id="Path-1" fill="#0091E5" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(366.000000, 157.000000)">
-                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" fill-opacity="0.101418888" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-                <path d="M19.7011414,32.1276042 C19.7011414,32.1276042 19.8414124,32.2476852 4.72860718,16.9901383 C4.72860718,15.3050156 9.24407959,8.06445188 19.7011414,8.06445312 C30.1582031,8.0644543 34.6736755,15.2674614 34.6736755,16.9901383 C19.8414124,32.2476852 19.7011414,32.1276042 19.7011414,32.1276042 Z" id="Path-1" fill="#0091E5" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(445.000000, 157.000000)" fill="#0091E5">
-                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 L19.7011906,32.1598409 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="bluetooth" sketch:type="MSLayerGroup" transform="translate(132.000000, 219.000000)">
-                <path d="M16,32 C24.8365564,32 32,24.8365564 32,16 C32,7.16344357 24.8365564,0 16,0 C7.16344357,0 0,7.16344357 0,16 C0,24.8365564 7.16344357,32 16,32 Z" id="Oval-1" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-                <path d="M14.4411399,13.1183685 L14.4411399,3.86456751 L24.9406168,11.3254361 L18.0845429,16.1973233 L24.9406168,21.4401575 L14.4411399,28.9104348 L14.4411399,19.9193885 L9.21600497,23.0665315 L6.85476898,21.2232698 L14.4411399,16.3875012 L6.85476898,11.3464049 L9.21600495,9.66852407 L14.4411399,13.1183685 Z M16.9406294,9.3510799 L16.8647239,13.3880587 L20.1714089,11.2563704 L16.9406294,9.3510799 Z M16.9406294,19.8161962 L16.8647239,23.853175 L20.1714089,21.7214866 L16.9406294,19.8161962 Z" id="Path-19" fill="#292929" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="bluetooth" sketch:type="MSLayerGroup" transform="translate(212.000000, 219.000000)">
-                <path d="M16,32 C24.8365564,32 32,24.8365564 32,16 C32,7.16344357 24.8365564,0 16,0 C7.16344357,0 0,7.16344357 0,16 C0,24.8365564 7.16344357,32 16,32 Z" id="Oval-1" fill="#0091E5" sketch:type="MSShapeGroup"></path>
-                <path d="M14.4411399,13.1183685 L14.4411399,3.86456751 L24.9406168,11.3254361 L18.0845429,16.1973233 L24.9406168,21.4401575 L14.4411399,28.9104348 L14.4411399,19.9193885 L9.21600497,23.0665315 L6.85476898,21.2232698 L14.4411399,16.3875012 L6.85476898,11.3464049 L9.21600495,9.66852407 L14.4411399,13.1183685 Z M16.9406294,9.3510799 L16.8647239,13.3880587 L20.1714089,11.2563704 L16.9406294,9.3510799 Z M16.9406294,19.8161962 L16.8647239,23.853175 L20.1714089,21.7214866 L16.9406294,19.8161962 Z" id="Path-19" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="nfc" sketch:type="MSLayerGroup" transform="translate(148.000000, 302.572298) rotate(-49.000000) translate(-148.000000, -302.572298) translate(132.000000, 286.572298)" fill="#FFFFFF">
-                <path d="M15.4919223,0.00791391337 C15.6606363,0.00265100006 15.8300086,2.84217094e-14 16,2.84217094e-14 C24.8365564,2.84217094e-14 32,7.16344357 32,16 C32,24.8365564 24.8365564,32 16,32 C7.16344357,32 2.84217094e-14,24.8365564 2.84217094e-14,16 C2.84217094e-14,15.8300086 0.00265100006,15.6606363 0.00791391337,15.4919223 C0.267499682,23.5485006 6.88033519,30 15,30 C23.2842717,30 30,23.2842717 30,15 C30,6.88033519 23.5485006,0.267499682 15.4919223,0.0079139134 Z" id="Oval-2" sketch:type="MSShapeGroup"></path>
-                <path d="M15.519157,4.71593342 C15.6786058,4.70925496 15.838909,4.70588235 16,4.70588235 C22.2375692,4.70588235 27.2941176,9.76243075 27.2941176,16 C27.2941176,22.2375692 22.2375692,27.2941176 16,27.2941176 C9.76243075,27.2941176 4.70588235,22.2375692 4.70588235,16 C4.70588235,15.838909 4.70925496,15.6786058 4.71593342,15.519157 C4.95676819,21.0233196 9.49530742,25.4117647 15.0588235,25.4117647 C20.7765953,25.4117647 25.4117647,20.7765953 25.4117647,15.0588235 C25.4117647,9.49530742 21.0233196,4.95676819 15.519157,4.71593342 Z" id="Oval-2" sketch:type="MSShapeGroup"></path>
-                <circle id="Oval-6" sketch:type="MSShapeGroup" cx="15.9117647" cy="15.9117647" r="5.5"></circle>
-            </g>
-            <g id="nfc" sketch:type="MSLayerGroup" transform="translate(228.000000, 302.572298) rotate(-49.000000) translate(-228.000000, -302.572298) translate(212.000000, 286.572298)" fill="#0091E5">
-                <path d="M15.4919223,0.00791391337 C15.6606363,0.00265100006 15.8300086,0 16,0 C24.8365564,0 32,7.16344357 32,16 C32,24.8365564 24.8365564,32 16,32 C7.16344357,32 2.84217094e-14,24.8365564 2.84217094e-14,16 C2.84217094e-14,15.8300086 0.00265100006,15.6606363 0.00791391337,15.4919223 C0.267499682,23.5485006 6.88033519,30 15,30 C23.2842717,30 30,23.2842717 30,15 C30,6.88033519 23.5485006,0.267499682 15.4919223,0.0079139134 Z" id="Oval-2" sketch:type="MSShapeGroup"></path>
-                <path d="M15.519157,4.71593342 C15.6786058,4.70925496 15.838909,4.70588235 16,4.70588235 C22.2375692,4.70588235 27.2941176,9.76243075 27.2941176,16 C27.2941176,22.2375692 22.2375692,27.2941176 16,27.2941176 C9.76243075,27.2941176 4.70588235,22.2375692 4.70588235,16 C4.70588235,15.838909 4.70925496,15.6786058 4.71593342,15.519157 C4.95676819,21.0233196 9.49530742,25.4117647 15.0588235,25.4117647 C20.7765953,25.4117647 25.4117647,20.7765953 25.4117647,15.0588235 C25.4117647,9.49530742 21.0233196,4.95676819 15.519157,4.71593342 Z" id="Oval-2" sketch:type="MSShapeGroup"></path>
-                <circle id="Oval-6" sketch:type="MSShapeGroup" cx="15.9117647" cy="15.9117647" r="5.5"></circle>
-            </g>
-            <g id="gps" sketch:type="MSLayerGroup" transform="translate(154.000000, 366.807584) rotate(-43.000000) translate(-154.000000, -366.807584) translate(139.000000, 349.807584)" fill="#FFFFFF">
-                <rect id="Rectangle-20" sketch:type="MSShapeGroup" x="-6.09036631e-14" y="11.5744681" width="18" height="10.8510638" rx="8"></rect>
-                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="23.8723404" width="7.5" height="2.89361702"></rect>
-                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="27.4893617" width="7.5" height="2.89361702"></rect>
-                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="31.106383" width="7.5" height="2.89361702"></rect>
-                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="0" width="7.5" height="2.89361702"></rect>
-                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="3.61702128" width="7.5" height="2.89361702"></rect>
-                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="7.23404255" width="7.5" height="2.89361702"></rect>
-                <rect id="Rectangle-14" sketch:type="MSShapeGroup" x="8.25" y="7.95744681" width="1.5" height="18.0851064"></rect>
-                <path d="M22.8207767,22.4136664 C22.6968303,22.4215353 22.5717874,22.4255319 22.4457767,22.4255319 C19.3391748,22.4255319 16.8207767,19.9964387 16.8207767,17 C16.8207767,14.0035613 19.3391748,11.5744681 22.4457767,11.5744681 C22.5717874,11.5744681 22.6968303,11.5784647 22.8207767,11.5863336 L22.8207767,22.4136664 Z" id="Oval-7" sketch:type="MSShapeGroup"></path>
-                <path d="M20.625,17 L25.6776123,17" id="Line" stroke="#FFFFFF" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-                <path d="M23.625,15.3419732 C23.8546734,15.2451831 24.1083357,15.1914894 24.375,15.1914894 C25.410534,15.1914894 26.25,16.0011871 26.25,17 C26.25,17.9988129 25.410534,18.8085106 24.375,18.8085106 C24.1083357,18.8085106 23.8546734,18.7548169 23.625,18.6580268 C24.2872143,18.3789531 24.75,17.7416048 24.75,17 C24.75,16.2583952 24.2872143,15.6210469 23.625,15.3419732 Z" id="Oval-8" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="gps" sketch:type="MSLayerGroup" transform="translate(228.000000, 366.807584) rotate(-43.000000) translate(-228.000000, -366.807584) translate(213.000000, 349.807584)" fill="#0091E5">
-                <rect id="Rectangle-20" sketch:type="MSShapeGroup" x="-1.13686838e-13" y="11.5744681" width="18" height="10.8510638" rx="8"></rect>
-                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="23.8723404" width="7.5" height="2.89361702"></rect>
-                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="27.4893617" width="7.5" height="2.89361702"></rect>
-                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="31.106383" width="7.5" height="2.89361702"></rect>
-                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="5.68434189e-14" width="7.5" height="2.89361702"></rect>
-                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="3.61702128" width="7.5" height="2.89361702"></rect>
-                <rect id="Rectangle-12" sketch:type="MSShapeGroup" x="5.25" y="7.23404255" width="7.5" height="2.89361702"></rect>
-                <rect id="Rectangle-14" sketch:type="MSShapeGroup" x="8.25" y="7.95744681" width="1.5" height="18.0851064"></rect>
-                <path d="M22.8207767,22.4136664 C22.6968303,22.4215353 22.5717874,22.4255319 22.4457767,22.4255319 C19.3391748,22.4255319 16.8207767,19.9964387 16.8207767,17 C16.8207767,14.0035613 19.3391748,11.5744681 22.4457767,11.5744681 C22.5717874,11.5744681 22.6968303,11.5784647 22.8207767,11.5863336 L22.8207767,22.4136664 Z" id="Oval-7" sketch:type="MSShapeGroup"></path>
-                <path d="M20.625,17 L25.6776123,17" id="Line" stroke="#0091E5" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-                <path d="M23.625,15.3419732 C23.8546734,15.2451831 24.1083357,15.1914894 24.375,15.1914894 C25.410534,15.1914894 26.25,16.0011871 26.25,17 C26.25,17.9988129 25.410534,18.8085106 24.375,18.8085106 C24.1083357,18.8085106 23.8546734,18.7548169 23.625,18.6580268 C24.2872143,18.3789531 24.75,17.7416048 24.75,17 C24.75,16.2583952 24.2872143,15.6210469 23.625,15.3419732 Z" id="Oval-8" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="play-btn" sketch:type="MSLayerGroup" transform="translate(139.000000, 426.470572)">
-                <path d="M14.5217391,0 L14.5217391,24 L35.5217391,13.0909091 L35.5217391,10.9090909 L14.5217391,0 Z" id="path5357-5" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-                <path d="M0.695652174,3.0625 L0.695652174,20.9375" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-                <path d="M8.65217391,3.0625 L8.65217391,20.9375" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="play-btn" sketch:type="MSLayerGroup" transform="translate(215.000000, 426.470572)">
-                <path d="M14.5217391,0 L14.5217391,24 L35.5217391,13.0909091 L35.5217391,10.9090909 L14.5217391,0 Z" id="path5357-5" fill="#0091E5" sketch:type="MSShapeGroup"></path>
-                <path d="M0.695652174,3.0625 L0.695652174,20.9375" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-                <path d="M8.65217391,3.0625 L8.65217391,20.9375" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="play-btn" sketch:type="MSLayerGroup" transform="translate(288.500000, 426.470572)">
-                <path d="M14.5217391,0 L14.5217391,24 L35.5217391,13.0909091 L35.5217391,10.9090909 L14.5217391,0 Z" id="path5357-5" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-                <path d="M0.695652174,3.0625 L0.695652174,20.9375" id="Line" stroke="#0091E5" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-                <path d="M8.65217391,3.0625 L8.65217391,20.9375" id="Line" stroke="#0091E5" stroke-width="6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="battery" sketch:type="MSLayerGroup" transform="translate(101.808830, 487.000000)" fill="#FFFFFF">
-                <rect id="Rectangle-7" fill-opacity="0.1" sketch:type="MSShapeGroup" x="-2.27373675e-13" y="2" width="26.3823399" height="32.4705722" rx="8.4790573"></rect>
-                <path d="M15.1911699,2 C15.1911699,0.895430446 14.2957395,0 13.1911699,0 C12.0866004,0 11.1911699,0.895430446 11.1911699,2 L15.1911699,2 Z" id="Oval-41" fill-opacity="0.103285846" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="battery" sketch:type="MSLayerGroup" transform="translate(134.808830, 487.000000)" fill="#FFFFFF">
-                <rect id="Rectangle-7" fill-opacity="0.1" sketch:type="MSShapeGroup" x="-2.27373675e-13" y="2" width="26.3823399" height="32.4705722" rx="8.4790573"></rect>
-                <rect id="Rectangle-7" sketch:type="MSShapeGroup" x="-1.13686838e-13" y="29.4705722" width="26.3823399" height="5" rx="8.4790573"></rect>
-                <path d="M15.1911699,2 C15.1911699,0.895430446 14.2957395,0 13.1911699,0 C12.0866004,0 11.1911699,0.895430446 11.1911699,2 L15.1911699,2 Z" id="Oval-41" fill-opacity="0.103285846" sketch:type="MSShapeGroup"></path>
-            </g>
-            <g id="battery_empty" sketch:type="MSLayerGroup" transform="translate(293.500000, 487.470572)">
-                <rect id="Rectangle-7" fill-opacity="0.1" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0.308830063" y="1.52942785" width="26.3823399" height="32.4705722" rx="8.4790573"></rect>
-                <path d="M15.5,1.52942785 C15.5,0.424858294 14.6045696,-0.470572152 13.5,-0.470572152 C12.3954304,-0.470572152 11.5,0.424858294 11.5,1.52942785 L15.5,1.52942785 Z" id="Oval-41" fill-opacity="0.103285846" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-                <rect id="Rectangle-7" fill="#D92723" sketch:type="MSShapeGroup" x="0.308830063" y="25" width="26.3823399" height="9" rx="8.4790573"></rect>
-            </g>
-            <path d="M171.5,514.5 L282.504501,514.5" id="Line" stroke="#FFFFFF" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-            <path id="Line-decoration-1" d="M271.7,517.5 C275.48,516.45 278.72,515.55 282.5,514.5 C278.72,513.45 275.48,512.55 271.7,511.5" stroke="#FFFFFF" stroke-linecap="square"></path>
-            <text id="normal" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="525" y="132">normal</tspan>
-            </text>
-            <text id="normal" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="129" y="270">normal</tspan>
-            </text>
-            <text id="focused" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="523" y="178">focused</tspan>
-            </text>
-            <text id="focused" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="521" y="92">focused</tspan>
-            </text>
-            <text id="cellular" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="31" y="59">cellular</tspan>
-            </text>
-            <text id="wifi" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="31" y="154">wifi</tspan>
-            </text>
-            <text id="bluetooth" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="31" y="243">bluetooth</tspan>
-            </text>
-            <text id="nfc" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="31" y="309">nfc</tspan>
-            </text>
-            <text id="gps" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="31" y="376">gps</tspan>
-            </text>
-            <text id="music" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="31" y="444">music</tspan>
-            </text>
-            <text id="battery" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="31" y="510">battery</tspan>
-            </text>
-            <text id="focused" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="205" y="270">focused</tspan>
-            </text>
-            <text id="normal" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="129" y="339">normal</tspan>
-            </text>
-            <text id="focused" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="205" y="339">focused</tspan>
-            </text>
-            <text id="normal" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="129" y="404">normal</tspan>
-            </text>
-            <text id="no-playlist" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="126" y="470">no playlist</tspan>
-            </text>
-            <text id="#D92723" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="279" y="540">#D92723</tspan>
-            </text>
-            <text id="once-10%-reached" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="171" y="502">once 10% reached</tspan>
-            </text>
-            <text id="battery-gauge-change" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="339" y="517">battery gauge changes are code driven.</tspan>
-            </text>
-            <text id="roundness-:-2u-/-col" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="339" y="500">roundness : 2u / color : #FFFFFF / bgopacity : 10 </tspan>
-            </text>
-            <text id="play" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="216" y="470">play</tspan>
-            </text>
-            <text id="pause" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="286" y="470">pause</tspan>
-            </text>
-            <text id="focused" sketch:type="MSTextLayer" font-family="Open Sans" font-size="12" font-weight="normal" fill="#FFFFFF">
-                <tspan x="205" y="404">focused</tspan>
-            </text>
-            <g id="battery" sketch:type="MSLayerGroup" transform="translate(293.808830, 489.000000)"></g>
-        </g>
-    </g>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="612px"
+   height="559px"
+   viewBox="0 0 612 559"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="statusbar_icons.svg">
+  <metadata
+     id="metadata329">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>statusbar_icons</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1173"
+     id="namedview327"
+     showgrid="false"
+     inkscape:zoom="2.1079377"
+     inkscape:cx="226.45424"
+     inkscape:cy="248.00629"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">statusbar_icons</title>
+  <description
+     id="description6">Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+  <defs
+     id="defs8">
+    <radialGradient
+       cx="50%"
+       cy="50%"
+       fx="50%"
+       fy="50%"
+       r="63.8671875%"
+       id="radialGradient-1">
+      <stop
+         stop-color="#0091E5"
+         offset="0%"
+         id="stop11" />
+      <stop
+         stop-color="#FFFFFF"
+         stop-opacity="0"
+         offset="100%"
+         id="stop13" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient-1"
+       id="radialGradient3407"
+       cx="17.903114"
+       cy="17.663218"
+       fx="17.903114"
+       fy="17.663218"
+       r="22.533599"
+       gradientTransform="scale(1.0977729,0.91093524)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient-1"
+       id="radialGradient3583"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0977729,0.91093524)"
+       cx="17.903114"
+       cy="17.663218"
+       fx="17.903114"
+       fy="17.663218"
+       r="22.533599" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient-1"
+       id="radialGradient3585"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0977729,0.91093524)"
+       cx="17.903114"
+       cy="17.663218"
+       fx="17.903114"
+       fy="17.663218"
+       r="22.533599" />
+  </defs>
+  <rect
+     id="Rectangle-25"
+     sketch:type="MSShapeGroup"
+     x="0"
+     y="0"
+     width="612"
+     height="562"
+     style="fill:#474747;stroke:#979797" />
+  <g
+     id="cell-bars"
+     sketch:type="MSLayerGroup"
+     transform="translate(134,37)"
+     style="fill:#ffffff;stroke:none">
+    <rect
+       id="Rectangle-2"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="28"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect20"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="21"
+       width="29"
+       height="4"
+       rx="8.4790573"
+       style="fill-opacity:0.1" />
+    <rect
+       id="rect22"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="14"
+       width="29"
+       height="4"
+       rx="8.4790573"
+       style="fill-opacity:0.1" />
+    <rect
+       id="rect24"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="7"
+       width="29"
+       height="4"
+       rx="8.4790573"
+       style="fill-opacity:0.1" />
+    <rect
+       id="rect26"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="0"
+       width="29"
+       height="4"
+       rx="8.4790573"
+       style="fill-opacity:0.1" />
+  </g>
+  <g
+     id="g28"
+     sketch:type="MSLayerGroup"
+     transform="translate(213,37)"
+     style="fill:#ffffff;stroke:none">
+    <rect
+       id="rect30"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="28"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect32"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="21"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect34"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="14"
+       width="29"
+       height="4"
+       rx="8.4790573"
+       style="fill-opacity:0.1" />
+    <rect
+       id="rect36"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="7"
+       width="29"
+       height="4"
+       rx="8.4790573"
+       style="fill-opacity:0.1" />
+    <rect
+       id="rect38"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="0"
+       width="29"
+       height="4"
+       rx="8.4790573"
+       style="fill-opacity:0.1" />
+  </g>
+  <g
+     id="g40"
+     sketch:type="MSLayerGroup"
+     transform="translate(292,37)"
+     style="fill:#ffffff;stroke:none">
+    <rect
+       id="rect42"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="28"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect44"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="21"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect46"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="14"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect48"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="7"
+       width="29"
+       height="4"
+       rx="8.4790573"
+       style="fill-opacity:0.1" />
+    <rect
+       id="rect50"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="0"
+       width="29"
+       height="4"
+       rx="8.4790573"
+       style="fill-opacity:0.1" />
+  </g>
+  <g
+     id="g52"
+     sketch:type="MSLayerGroup"
+     transform="translate(371,37)"
+     style="fill:#ffffff;stroke:none">
+    <rect
+       id="rect54"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="28"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect56"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="21"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect58"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="14"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect60"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="7"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect62"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="0"
+       width="29"
+       height="4"
+       rx="8.4790573"
+       style="fill-opacity:0.1" />
+  </g>
+  <g
+     id="g64"
+     sketch:type="MSLayerGroup"
+     transform="translate(450,37)"
+     style="fill:#ffffff;stroke:none">
+    <rect
+       id="rect66"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="28"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect68"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="21"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect70"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="14"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect72"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="7"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect74"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="0"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+  </g>
+  <g
+     id="g76"
+     sketch:type="MSLayerGroup"
+     transform="translate(529,37)"
+     style="fill:#0091e5;stroke:none">
+    <rect
+       id="rect78"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="28"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect80"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="21"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect82"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="14"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect84"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="7"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+    <rect
+       id="rect86"
+       sketch:type="MSShapeGroup"
+       x="0"
+       y="0"
+       width="29"
+       height="4"
+       rx="8.4790573" />
+  </g>
+  <g
+     id="wifi"
+     sketch:type="MSLayerGroup"
+     transform="translate(129,112)"
+     style="fill:#ffffff;fill-opacity:0.10141889;stroke:none">
+    <path
+       d="m 19.701191,32.159841 c 0,0 0,-10e-7 -19.41343064,-19.581359 0,-2.198355 4.88201324,-12.55822955 19.41343064,-12.55822727 14.531417,2.29e-6 19.318155,10.31088027 19.318155,12.55822727 L 19.701191,32.159841 z"
+       id="Path-1"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g90"
+     sketch:type="MSLayerGroup"
+     transform="translate(208,112)"
+     style="fill:#ffffff;stroke:none">
+    <path
+       d="m 19.701191,32.159841 c 0,0 0,-10e-7 -19.41343064,-19.581359 0,-2.198355 4.88201324,-12.55822955 19.41343064,-12.55822727 14.531417,2.29e-6 19.318155,10.31088027 19.318155,12.55822727 L 19.701191,32.159841 z"
+       id="path92"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill-opacity:0.10141889" />
+    <path
+       d="m 19.701141,32.127604 c 0,0 0,0 -7.451141,-7.506511 0,-1.685122 4.543884,-3.292564 7.451141,-3.292564 2.907257,0 7.553742,1.569887 7.553742,3.292564 l -7.553742,7.506511 z"
+       id="path94"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g96"
+     sketch:type="MSLayerGroup"
+     transform="translate(287,112)"
+     style="fill:#ffffff;stroke:none">
+    <path
+       d="m 19.701191,32.159841 c 0,0 0,-10e-7 -19.41343064,-19.581359 0,-2.198355 4.88201324,-12.55822955 19.41343064,-12.55822727 14.531417,2.29e-6 19.318155,10.31088027 19.318155,12.55822727 L 19.701191,32.159841 z"
+       id="path98"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill-opacity:0.10141889" />
+    <path
+       d="m 19.701141,32.127604 c 0,0 3.422406,3.447814 -11.6903988,-11.809733 0,-0.611328 3.2020878,-5.634278 11.6903988,-5.634277 8.488312,1e-6 11.734406,4.740722 11.734406,5.634277 C 16.603284,35.575418 19.701141,32.127604 19.701141,32.127604 z"
+       id="path100"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g102"
+     sketch:type="MSLayerGroup"
+     transform="translate(366,112)"
+     style="fill:#ffffff;stroke:none">
+    <path
+       d="m 19.701191,32.159841 c 0,0 0,-10e-7 -19.41343064,-19.581359 0,-2.198355 4.88201324,-12.55822955 19.41343064,-12.55822727 14.531417,2.29e-6 19.318155,10.31088027 19.318155,12.55822727 L 19.701191,32.159841 z"
+       id="path104"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill-opacity:0.10141889" />
+    <path
+       d="m 19.701141,32.127604 c 0,0 0.140271,0.120081 -14.9725338,-15.137466 0,-1.685122 4.5154724,-8.9256861 14.9725338,-8.9256849 10.457062,1.2e-6 14.972535,7.2030079 14.972535,8.9256849 C 19.841412,32.247685 19.701141,32.127604 19.701141,32.127604 z"
+       id="path106"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g108"
+     sketch:type="MSLayerGroup"
+     transform="translate(445,112)"
+     style="fill:#ffffff;stroke:none">
+    <path
+       d="m 19.701191,32.159841 c 0,0 0,-10e-7 -19.41343064,-19.581359 0,-2.198355 4.88201324,-12.55822955 19.41343064,-12.55822727 14.531417,2.29e-6 19.318155,10.31088027 19.318155,12.55822727 L 19.701191,32.159841 z"
+       id="path110"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g112"
+     sketch:type="MSLayerGroup"
+     transform="translate(129,157)"
+     style="fill:url(#radialGradient3585);stroke:none">
+    <path
+       d="m 19.701191,32.159841 c 0,0 0,-10e-7 -19.41343064,-19.581359 0,-2.198355 4.88201324,-12.55822955 19.41343064,-12.55822727 14.531417,2.29e-6 19.318155,10.31088027 19.318155,12.55822727 L 19.701191,32.159841 z"
+       id="path114"
+       sketch:type="MSShapeGroup"
+       style="fill:url(#radialGradient3583)"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="g116"
+     sketch:type="MSLayerGroup"
+     transform="translate(208,157)">
+    <path
+       d="m 19.701191,32.159841 c 0,0 0,-10e-7 -19.41343064,-19.581359 0,-2.198355 4.88201324,-12.55822955 19.41343064,-12.55822727 14.531417,2.29e-6 19.318155,10.31088027 19.318155,12.55822727 L 19.701191,32.159841 z"
+       id="path118"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.10141889" />
+    <path
+       d="m 19.701141,32.127604 c 0,0 0,0 -7.451141,-7.506511 0,-1.685122 4.543884,-3.292564 7.451141,-3.292564 2.907257,0 7.553742,1.569887 7.553742,3.292564 l -7.553742,7.506511 z"
+       id="path120"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#0091e5" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="g122"
+     sketch:type="MSLayerGroup"
+     transform="translate(287,157)">
+    <path
+       d="m 19.701191,32.159841 c 0,0 0,-10e-7 -19.41343064,-19.581359 0,-2.198355 4.88201324,-12.55822955 19.41343064,-12.55822727 14.531417,2.29e-6 19.318155,10.31088027 19.318155,12.55822727 L 19.701191,32.159841 z"
+       id="path124"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.10141889" />
+    <path
+       d="m 19.701141,32.127604 c 0,0 3.422406,3.447814 -11.6903988,-11.809733 0,-0.611328 3.2020878,-5.634278 11.6903988,-5.634277 8.488312,1e-6 11.734406,4.740722 11.734406,5.634277 C 16.603284,35.575418 19.701141,32.127604 19.701141,32.127604 z"
+       id="path126"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#0091e5" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="g128"
+     sketch:type="MSLayerGroup"
+     transform="translate(366,157)">
+    <path
+       d="m 19.701191,32.159841 c 0,0 0,-10e-7 -19.41343064,-19.581359 0,-2.198355 4.88201324,-12.55822955 19.41343064,-12.55822727 14.531417,2.29e-6 19.318155,10.31088027 19.318155,12.55822727 L 19.701191,32.159841 z"
+       id="path130"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.10141889" />
+    <path
+       d="m 19.701141,32.127604 c 0,0 0.140271,0.120081 -14.9725338,-15.137466 0,-1.685122 4.5154724,-8.9256861 14.9725338,-8.9256849 10.457062,1.2e-6 14.972535,7.2030079 14.972535,8.9256849 C 19.841412,32.247685 19.701141,32.127604 19.701141,32.127604 z"
+       id="path132"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#0091e5" />
+  </g>
+  <g
+     id="g134"
+     sketch:type="MSLayerGroup"
+     transform="translate(445,157)"
+     style="fill:#0091e5;stroke:none">
+    <path
+       d="m 19.701191,32.159841 c 0,0 0,-10e-7 -19.41343064,-19.581359 0,-2.198355 4.88201324,-12.55822955 19.41343064,-12.55822727 14.531417,2.29e-6 19.318155,10.31088027 19.318155,12.55822727 L 19.701191,32.159841 z"
+       id="path136"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="bluetooth"
+     sketch:type="MSLayerGroup"
+     transform="translate(132,219)">
+    <path
+       d="M 16,32 C 24.836556,32 32,24.836556 32,16 32,7.1634436 24.836556,0 16,0 7.1634436,0 0,7.1634436 0,16 0,24.836556 7.1634436,32 16,32 z"
+       id="Oval-1"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+    <path
+       d="m 14.44114,13.118369 0,-9.2538015 10.499477,7.4608685 -6.856074,4.871887 6.856074,5.242835 -10.499477,7.470277 0,-8.991047 L 9.216005,23.066531 6.854769,21.22327 14.44114,16.387501 6.854769,11.346405 9.216005,9.6685241 14.44114,13.118369 z m 2.499489,-3.7672891 -0.07591,4.0369791 3.306685,-2.131689 -3.23078,-1.9052901 z m 0,10.4651161 -0.07591,4.036979 3.306685,-2.131688 -3.23078,-1.905291 z"
+       id="Path-19"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#292929" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="g141"
+     sketch:type="MSLayerGroup"
+     transform="translate(212,219)">
+    <path
+       d="M 16,32 C 24.836556,32 32,24.836556 32,16 32,7.1634436 24.836556,0 16,0 7.1634436,0 0,7.1634436 0,16 0,24.836556 7.1634436,32 16,32 z"
+       id="path143"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#0091e5" />
+    <path
+       d="m 14.44114,13.118369 0,-9.2538015 10.499477,7.4608685 -6.856074,4.871887 6.856074,5.242835 -10.499477,7.470277 0,-8.991047 L 9.216005,23.066531 6.854769,21.22327 14.44114,16.387501 6.854769,11.346405 9.216005,9.6685241 14.44114,13.118369 z m 2.499489,-3.7672891 -0.07591,4.0369791 3.306685,-2.131689 -3.23078,-1.9052901 z m 0,10.4651161 -0.07591,4.036979 3.306685,-2.131688 -3.23078,-1.905291 z"
+       id="path145"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     id="nfc"
+     sketch:type="MSLayerGroup"
+     transform="matrix(0.65605903,-0.75470958,0.75470958,0.65605903,125.4277,304.15071)"
+     style="fill:#ffffff;stroke:none">
+    <path
+       d="M 15.491922,0.00791391 C 15.660636,0.002651 15.830009,0 16,0 24.836556,0 32,7.1634436 32,16 32,24.836556 24.836556,32 16,32 7.1634436,32 0,24.836556 0,16 0,15.830009 0.002651,15.660636 0.00791391,15.491922 0.26749968,23.548501 6.8803352,30 15,30 23.284272,30 30,23.284272 30,15 30,6.8803352 23.548501,0.26749968 15.491922,0.00791391 z"
+       id="Oval-2"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 15.519157,4.7159334 C 15.678606,4.709255 15.838909,4.7058824 16,4.7058824 22.237569,4.7058824 27.294118,9.7624308 27.294118,16 27.294118,22.237569 22.237569,27.294118 16,27.294118 9.7624308,27.294118 4.7058824,22.237569 4.7058824,16 c 0,-0.161091 0.00337,-0.321394 0.010051,-0.480843 0.2408348,5.504163 4.779374,9.892608 10.3428906,9.892608 5.717771,0 10.352941,-4.63517 10.352941,-10.352941 0,-5.5635166 -4.388445,-10.1020558 -9.892608,-10.3428906 z"
+       id="path149"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0" />
+    <circle
+       id="Oval-6"
+       sketch:type="MSShapeGroup"
+       cx="15.911765"
+       cy="15.911765"
+       r="5.5"
+       d="m 21.411765,15.911765 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       sodipodi:cx="15.911765"
+       sodipodi:cy="15.911765"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5" />
+  </g>
+  <g
+     id="g152"
+     sketch:type="MSLayerGroup"
+     transform="matrix(0.65605903,-0.75470958,0.75470958,0.65605903,205.4277,304.15071)"
+     style="fill:#0091e5;stroke:none">
+    <path
+       d="M 15.491922,0.00791391 C 15.660636,0.002651 15.830009,0 16,0 24.836556,0 32,7.1634436 32,16 32,24.836556 24.836556,32 16,32 7.1634436,32 0,24.836556 0,16 0,15.830009 0.002651,15.660636 0.00791391,15.491922 0.26749968,23.548501 6.8803352,30 15,30 23.284272,30 30,23.284272 30,15 30,6.8803352 23.548501,0.26749968 15.491922,0.00791391 z"
+       id="path154"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 15.519157,4.7159334 C 15.678606,4.709255 15.838909,4.7058824 16,4.7058824 22.237569,4.7058824 27.294118,9.7624308 27.294118,16 27.294118,22.237569 22.237569,27.294118 16,27.294118 9.7624308,27.294118 4.7058824,22.237569 4.7058824,16 c 0,-0.161091 0.00337,-0.321394 0.010051,-0.480843 0.2408348,5.504163 4.779374,9.892608 10.3428906,9.892608 5.717771,0 10.352941,-4.63517 10.352941,-10.352941 0,-5.5635166 -4.388445,-10.1020558 -9.892608,-10.3428906 z"
+       id="path156"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0" />
+    <circle
+       id="circle158"
+       sketch:type="MSShapeGroup"
+       cx="15.911765"
+       cy="15.911765"
+       r="5.5"
+       d="m 21.411765,15.911765 c 0,3.037566 -2.462434,5.5 -5.5,5.5 -3.037566,0 -5.5,-2.462434 -5.5,-5.5 0,-3.037566 2.462434,-5.5 5.5,-5.5 3.037566,0 5.5,2.462434 5.5,5.5 z"
+       sodipodi:cx="15.911765"
+       sodipodi:cy="15.911765"
+       sodipodi:rx="5.5"
+       sodipodi:ry="5.5" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="play-btn"
+     sketch:type="MSLayerGroup"
+     transform="translate(139,426.47057)">
+    <path
+       d="m 14.521739,0 0,24 21,-10.909091 0,-2.181818 L 14.521739,0 z"
+       id="path5357-5"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+    <path
+       d="m 0.69565217,3.0625 0,17.875"
+       id="path203"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="stroke:#ffffff;stroke-width:6;stroke-linecap:square" />
+    <path
+       d="m 8.6521739,3.0625 0,17.875"
+       id="path205"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="stroke:#ffffff;stroke-width:6;stroke-linecap:square" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="g207"
+     sketch:type="MSLayerGroup"
+     transform="translate(215,426.47057)">
+    <path
+       d="m 14.521739,0 0,24 21,-10.909091 0,-2.181818 L 14.521739,0 z"
+       id="path209"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#0091e5" />
+    <path
+       d="m 0.69565217,3.0625 0,17.875"
+       id="path211"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="stroke:#ffffff;stroke-width:6;stroke-linecap:square" />
+    <path
+       d="m 8.6521739,3.0625 0,17.875"
+       id="path213"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="stroke:#ffffff;stroke-width:6;stroke-linecap:square" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="g215"
+     sketch:type="MSLayerGroup"
+     transform="translate(288.5,426.47057)">
+    <path
+       d="m 14.521739,0 0,24 21,-10.909091 0,-2.181818 L 14.521739,0 z"
+       id="path217"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+    <path
+       d="m 0.69565217,3.0625 0,17.875"
+       id="path219"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="stroke:#0091e5;stroke-width:6;stroke-linecap:square" />
+    <path
+       d="m 8.6521739,3.0625 0,17.875"
+       id="path221"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="stroke:#0091e5;stroke-width:6;stroke-linecap:square" />
+  </g>
+  <g
+     id="battery"
+     sketch:type="MSLayerGroup"
+     transform="translate(101.80883,487)"
+     style="fill:#ffffff;stroke:none">
+    <rect
+       id="Rectangle-7"
+       sketch:type="MSShapeGroup"
+       x="-2.2737368e-13"
+       y="2"
+       width="26.382339"
+       height="32.470573"
+       rx="8.4790573"
+       style="fill-opacity:0.1" />
+    <path
+       d="m 15.19117,2 c 0,-1.10456955 -0.89543,-2 -2,-2 -1.10457,0 -2,0.89543045 -2,2 l 4,0 z"
+       id="Oval-41"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill-opacity:0.10328585" />
+  </g>
+  <g
+     id="g226"
+     sketch:type="MSLayerGroup"
+     transform="translate(134.80883,487)"
+     style="fill:#ffffff;stroke:none">
+    <rect
+       id="rect228"
+       sketch:type="MSShapeGroup"
+       x="-2.2737368e-13"
+       y="2"
+       width="26.382339"
+       height="32.470573"
+       rx="8.4790573"
+       style="fill-opacity:0.1" />
+    <rect
+       id="rect230"
+       sketch:type="MSShapeGroup"
+       x="-1.1368684e-13"
+       y="18.405079"
+       width="26.382339"
+       height="16.065493"
+       rx="8.4790573" />
+    <path
+       d="m 15.19117,2 c 0,-1.10456955 -0.89543,-2 -2,-2 -1.10457,0 -2,0.89543045 -2,2 l 4,0 z"
+       id="path232"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill-opacity:0.10328585" />
+  </g>
+  <g
+     style="fill:none;stroke:none"
+     id="battery_empty"
+     sketch:type="MSLayerGroup"
+     transform="translate(293.5,487.47057)">
+    <rect
+       id="rect235"
+       sketch:type="MSShapeGroup"
+       x="0.30883005"
+       y="1.5294279"
+       width="26.382339"
+       height="32.470573"
+       rx="8.4790573"
+       style="fill:#ffffff;fill-opacity:0.1" />
+    <path
+       d="m 15.5,1.5294278 c 0,-1.10456951 -0.89543,-1.99999995 -2,-1.99999995 -1.10457,0 -2,0.89543044 -2,1.99999995 l 4,0 z"
+       id="path237"
+       sketch:type="MSShapeGroup"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.10328585" />
+    <rect
+       id="rect239"
+       sketch:type="MSShapeGroup"
+       x="0.30883005"
+       y="25"
+       width="26.382339"
+       height="9"
+       rx="8.4790573"
+       style="fill:#d92723" />
+  </g>
+  <path
+     d="m 171.5,514.5 111.0045,0"
+     id="path241"
+     sketch:type="MSShapeGroup"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#ffffff;stroke-linecap:square" />
+  <path
+     id="Line-decoration-1"
+     d="m 271.7,517.5 c 3.78,-1.05 7.02,-1.95 10.8,-3 -3.78,-1.05 -7.02,-1.95 -10.8,-3"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#ffffff;stroke-linecap:square" />
+  <text
+     id="normal"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="525"
+       y="132"
+       id="tspan245">normal</tspan>
+  </text>
+  <text
+     id="text247"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="129"
+       y="270"
+       id="tspan249">normal</tspan>
+  </text>
+  <text
+     id="focused"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="523"
+       y="178"
+       id="tspan252">focused</tspan>
+  </text>
+  <text
+     id="text254"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="521"
+       y="92"
+       id="tspan256">focused</tspan>
+  </text>
+  <text
+     id="cellular"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="31"
+       y="59"
+       id="tspan259">cellular</tspan>
+  </text>
+  <text
+     id="text261"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="31"
+       y="154"
+       id="tspan263">wifi</tspan>
+  </text>
+  <text
+     id="text265"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="31"
+       y="243"
+       id="tspan267">bluetooth</tspan>
+  </text>
+  <text
+     id="text269"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="31"
+       y="309"
+       id="tspan271">nfc</tspan>
+  </text>
+  <text
+     id="text273"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="31"
+       y="376"
+       id="tspan275">gps</tspan>
+  </text>
+  <text
+     id="music"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="31"
+       y="444"
+       id="tspan278">music</tspan>
+  </text>
+  <text
+     id="text280"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="31"
+       y="510"
+       id="tspan282">battery</tspan>
+  </text>
+  <text
+     id="text284"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="205"
+       y="270"
+       id="tspan286">focused</tspan>
+  </text>
+  <text
+     id="text288"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="129"
+       y="339"
+       id="tspan290">normal</tspan>
+  </text>
+  <text
+     id="text292"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="205"
+       y="339"
+       id="tspan294">focused</tspan>
+  </text>
+  <text
+     id="text296"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="129"
+       y="404"
+       id="tspan298">normal</tspan>
+  </text>
+  <text
+     id="no-playlist"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="126"
+       y="470"
+       id="tspan301">no playlist</tspan>
+  </text>
+  <text
+     id="#D92723"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="279"
+       y="540"
+       id="tspan304">#D92723</tspan>
+  </text>
+  <text
+     id="once-10%-reached"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="171"
+       y="502"
+       id="tspan307">once 10% reached</tspan>
+  </text>
+  <text
+     id="battery-gauge-change"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="339"
+       y="517"
+       id="tspan310">battery gauge changes are code driven.</tspan>
+  </text>
+  <text
+     id="roundness-:-2u-/-col"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="339"
+       y="500"
+       id="tspan313">roundness : 2u / color : #FFFFFF / bgopacity : 10</tspan>
+  </text>
+  <text
+     id="play"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="216"
+       y="470"
+       id="tspan316">play</tspan>
+  </text>
+  <text
+     id="pause"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="286"
+       y="470"
+       id="tspan319">pause</tspan>
+  </text>
+  <text
+     id="text321"
+     sketch:type="MSTextLayer"
+     font-size="12"
+     font-weight="normal"
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+    <tspan
+       x="205"
+       y="404"
+       id="tspan323">focused</tspan>
+  </text>
+  <g
+     style="fill:none;stroke:none"
+     id="g325"
+     sketch:type="MSLayerGroup"
+     transform="translate(293.80883,489)" />
+  <g
+     id="g3399"
+     transform="matrix(0.93907308,0,0,0.93907308,7.0736186,23.958495)"
+     style="fill:#ffffff">
+    <path
+       id="path3114"
+       d="m 138.8733,357.7267 c -3.58622,3.09638 -5.84146,7.62798 -5.84146,12.71639 0,9.34573 7.64273,16.94022 17.07502,16.94022 7.59099,0 13.99759,-4.9414 16.22127,-11.72784 -0.0657,0.11445 -0.10445,0.24991 -0.17973,0.35947 -2.77916,4.03902 -11.07546,3.1264 -18.55785,-2.02204 -7.27947,-5.00881 -11.07525,-12.16091 -8.71725,-16.2662 z m 28.12884,14.51376 c 0.006,0.06 0.0413,0.12035 0.0448,0.17974 0.006,-0.0466 0.0398,-0.0881 0.0448,-0.13473 l -0.0898,-0.0449 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.90899992;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="matrix(1.0813932,0,0,1.0813932,111.07742,148.7446)"
+       d="m 40.972012,202.41084 c 0,1.80545 -1.4636,3.26905 -3.269043,3.26905 -1.805443,0 -3.269044,-1.4636 -3.269044,-3.26905 0,-1.80544 1.463601,-3.26904 3.269044,-3.26904 1.805443,0 3.269043,1.4636 3.269043,3.26904 z"
+       sodipodi:ry="3.2690437"
+       sodipodi:rx="3.2690437"
+       sodipodi:cy="202.41084"
+       sodipodi:cx="37.702969"
+       id="path3119"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.90899992;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.90899992;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3126"
+       sodipodi:cx="37.702969"
+       sodipodi:cy="202.41084"
+       sodipodi:rx="3.2690437"
+       sodipodi:ry="3.2690437"
+       d="m 40.972012,202.41084 c 0,1.80545 -1.4636,3.26905 -3.269043,3.26905 -1.805443,0 -3.269044,-1.4636 -3.269044,-3.26905 0,-1.80544 1.463601,-3.26904 3.269044,-3.26904 1.805443,0 3.269043,1.4636 3.269043,3.26904 z"
+       transform="matrix(1.0813932,0,0,1.0813932,116.77506,140.9751)" />
+    <path
+       sodipodi:nodetypes="cscccccscc"
+       inkscape:connector-curvature="0"
+       id="path3123"
+       d="m 159.3717,360.24438 c -3.46493,-2.73356 -7.29465,-4.56981 -10.78385,-5.2856 -3.4892,-0.71581 -6.68104,-0.36503 -8.67039,1.47877 4.05725,-1.02357 5.86827,-0.61124 8.36504,-0.12711 3.22509,0.6616 6.93235,2.36338 10.22955,4.95627 l 0.0353,0.0242 c 4.42535,3.63967 7.70299,7.94489 8.01722,13.84611 0.96324,-2.09283 0.59486,-4.69624 -0.70179,-7.3028 -1.29665,-2.60656 -3.5381,-5.2603 -6.49112,-7.58999 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+  <g
+     style="fill:#0091e5;fill-opacity:1"
+     transform="matrix(0.93907308,0,0,0.93907308,87.073619,23.958495)"
+     id="g3760">
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#0091e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.90899992;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 138.8733,357.7267 c -3.58622,3.09638 -5.84146,7.62798 -5.84146,12.71639 0,9.34573 7.64273,16.94022 17.07502,16.94022 7.59099,0 13.99759,-4.9414 16.22127,-11.72784 -0.0657,0.11445 -0.10445,0.24991 -0.17973,0.35947 -2.77916,4.03902 -11.07546,3.1264 -18.55785,-2.02204 -7.27947,-5.00881 -11.07525,-12.16091 -8.71725,-16.2662 z m 28.12884,14.51376 c 0.006,0.06 0.0413,0.12035 0.0448,0.17974 0.006,-0.0466 0.0398,-0.0881 0.0448,-0.13473 l -0.0898,-0.0449 z"
+       id="path3762" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#0091e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.90899992;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3764"
+       sodipodi:cx="37.702969"
+       sodipodi:cy="202.41084"
+       sodipodi:rx="3.2690437"
+       sodipodi:ry="3.2690437"
+       d="m 40.972012,202.41084 c 0,1.80545 -1.4636,3.26905 -3.269043,3.26905 -1.805443,0 -3.269044,-1.4636 -3.269044,-3.26905 0,-1.80544 1.463601,-3.26904 3.269044,-3.26904 1.805443,0 3.269043,1.4636 3.269043,3.26904 z"
+       transform="matrix(1.0813932,0,0,1.0813932,111.07742,148.7446)" />
+    <path
+       transform="matrix(1.0813932,0,0,1.0813932,116.77506,140.9751)"
+       d="m 40.972012,202.41084 c 0,1.80545 -1.4636,3.26905 -3.269043,3.26905 -1.805443,0 -3.269044,-1.4636 -3.269044,-3.26905 0,-1.80544 1.463601,-3.26904 3.269044,-3.26904 1.805443,0 3.269043,1.4636 3.269043,3.26904 z"
+       sodipodi:ry="3.2690437"
+       sodipodi:rx="3.2690437"
+       sodipodi:cy="202.41084"
+       sodipodi:cx="37.702969"
+       id="path3766"
+       style="color:#000000;fill:#0091e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.90899992;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#0091e5;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 159.3717,360.24438 c -3.46493,-2.73356 -7.29465,-4.56981 -10.78385,-5.2856 -3.4892,-0.71581 -6.68104,-0.36503 -8.67039,1.47877 4.05725,-1.02357 5.86827,-0.61124 8.36504,-0.12711 3.22509,0.6616 6.93235,2.36338 10.22955,4.95627 l 0.0353,0.0242 c 4.42535,3.63967 7.70299,7.94489 8.01722,13.84611 0.96324,-2.09283 0.59486,-4.69624 -0.70179,-7.3028 -1.29665,-2.60656 -3.5381,-5.2603 -6.49112,-7.58999 z"
+       id="path3768"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccccscc" />
+  </g>
 </svg>
