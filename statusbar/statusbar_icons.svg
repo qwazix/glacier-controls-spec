@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1173"
+     inkscape:window-height="1078"
      id="namedview327"
      showgrid="false"
-     inkscape:zoom="2.1079377"
-     inkscape:cx="226.45424"
-     inkscape:cy="248.00629"
+     inkscape:zoom="1.5837248"
+     inkscape:cx="420.23863"
+     inkscape:cy="145.54296"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <title
@@ -1005,10 +1005,11 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans"
+     y="37.253948">
     <tspan
        x="339"
-       y="517"
+       y="554.25397"
        id="tspan310">battery gauge changes are code driven.</tspan>
   </text>
   <text
@@ -1016,10 +1017,11 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans"
+     y="37.253948">
     <tspan
        x="339"
-       y="500"
+       y="537.25397"
        id="tspan313">roundness : 2u / color : #FFFFFF / bgopacity : 10</tspan>
   </text>
   <text
@@ -1132,4 +1134,40 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscccccscc" />
   </g>
+  <g
+     style="fill:#ffffff;stroke:none"
+     transform="translate(338.16947,487)"
+     sketch:type="MSLayerGroup"
+     id="g3154">
+    <rect
+       style="fill-opacity:0.1"
+       rx="8.4790573"
+       height="32.470573"
+       width="26.382339"
+       y="2"
+       x="-2.2737368e-13"
+       sketch:type="MSShapeGroup"
+       id="rect3156" />
+    <path
+       style="fill-opacity:0.10328585"
+       inkscape:connector-curvature="0"
+       sketch:type="MSShapeGroup"
+       id="path3158"
+       d="m 15.19117,2 c 0,-1.10456955 -0.89543,-2 -2,-2 -1.10457,0 -2,0.89543045 -2,2 l 4,0 z" />
+  </g>
+  <rect
+     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     rx="8.4790573"
+     height="10.174222"
+     width="25.846754"
+     y="511.29636"
+     x="338.86096"
+     sketch:type="MSShapeGroup"
+     id="rect3162" />
+  <path
+     style="fill:#0091e5;fill-opacity:1;stroke:none"
+     d="m 356.41148,495.08684 -9.91682,11.08757 3.19034,-0.61946 -2.99644,11.53129 9.95452,-12.22477 -3.06465,0.61946 z"
+     id="path3160"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc" />
 </svg>
