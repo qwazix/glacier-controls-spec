@@ -2,3 +2,6 @@
 tmp*.png
 tmp*.pdf
 tmp*.svg
+._.DS_Store
+.DS_Store
+
