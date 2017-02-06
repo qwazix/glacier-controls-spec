@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48+devel+osxmenu r12782"
    sodipodi:docname="selectRoller.svg"
    inkscape:export-filename="selectRoller.png"
    inkscape:export-xdpi="90"
@@ -27,18 +27,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6548531"
-     inkscape:cx="306.96011"
-     inkscape:cy="546.00362"
+     inkscape:cx="602.86139"
+     inkscape:cy="640.68588"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1173"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1276"
+     inkscape:window-height="778"
+     inkscape:window-x="4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:snap-grids="true"
      inkscape:snap-global="false"
      inkscape:snap-page="false"
@@ -59,6 +59,10 @@
        orientation="0,1"
        position="451.32607,742.81336"
        id="guide4455" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="450.44512,700.60968"
+       id="guide7283" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -183,6 +187,16 @@
        y1="456.0033"
        x2="591.4472"
        y2="447.70749" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22460"
+       id="linearGradient7281"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-20)"
+       x1="591.4472"
+       y1="456.0033"
+       x2="591.4472"
+       y2="447.70749" />
   </defs>
   <metadata
      id="metadata7">
@@ -192,7 +206,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -355,7 +369,7 @@
        id="text20842"
        y="289.25113"
        x="40.654167"
-       style="font-size:8.92787361px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:234.99999046%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Semi-Bold"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.92787361px;line-height:234.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"
        inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
        inkscape:export-xdpi="90"
@@ -363,13 +377,13 @@
          y="289.25113"
          x="40.654167"
          sodipodi:role="line"
-         id="tspan20844">WHICH IS YOUR FAVORITE FISH?</tspan></text>
+         id="tspan20844">WHICH IS YOUR FAVORITE MEAT?</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
        xml:space="preserve"
-       style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:234.99999046%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Light"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16.5px;line-height:234.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="48.240303"
        y="309.22284"
        id="text20808-2"
@@ -377,7 +391,7 @@
          id="tspan20820-6"
          sodipodi:role="line"
          x="48.240303"
-         y="309.22284">Alfonsino</tspan></text>
+         y="309.22284">Lamb</tspan></text>
     <path
        sodipodi:type="star"
        style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -426,39 +440,39 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
        xml:space="preserve"
-       style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:192.99999475%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Light"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16.5px;line-height:192.99999475%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="489.28351"
-       y="245.69734"
+       y="288.44186"
        id="text20681"
        sodipodi:linespacing="192.99999%"><tspan
          id="tspan20707"
          sodipodi:role="line"
          x="489.28351"
-         y="245.69734">Albacore</tspan><tspan
+         y="288.44186" /><tspan
          sodipodi:role="line"
          x="489.28351"
-         y="277.54233"
+         y="320.28687"
          id="tspan20794">Alewife</tspan><tspan
          sodipodi:role="line"
          x="489.28351"
-         y="309.38733"
+         y="352.13187"
          id="tspan20796"
-         style="font-size:16.5px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:192.99999475%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans Semi-Bold">Alfonsino</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.5px;line-height:192.99999475%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Alfonsino</tspan><tspan
          sodipodi:role="line"
          x="489.28351"
-         y="341.23233"
+         y="383.97687"
          id="tspan20798">Algae eater</tspan><tspan
          sodipodi:role="line"
          x="489.28351"
-         y="373.07733"
+         y="415.82187"
          id="tspan20800">Alligatorfish</tspan><tspan
          sodipodi:role="line"
          x="489.28351"
-         y="404.92233"
+         y="447.66687"
          id="tspan20802">Alligator gar</tspan><tspan
          sodipodi:role="line"
          x="489.28351"
-         y="436.76733"
+         y="479.51187"
          id="tspan20804">Amago</tspan></text>
     <text
        inkscape:export-ydpi="90"
@@ -476,10 +490,10 @@
          y="216.08066">WHICH IS YOUR FAVORITE FISH?</tspan></text>
     <g
        id="g21762"
-       transform="translate(442.70646,-122.52748)">
+       transform="translate(442.70646,-79.782943)">
       <path
          sodipodi:type="star"
-         style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;marker:none;enable-background:accumulate"
          id="path21758"
          sodipodi:sides="3"
          sodipodi:cx="-21.830538"
@@ -509,7 +523,7 @@
          sodipodi:cx="-21.830538"
          sodipodi:sides="3"
          id="path21760"
-         style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;marker:none;enable-background:accumulate"
          sodipodi:type="star" />
     </g>
     <flowRoot
@@ -533,33 +547,37 @@
        d="m 460.17881,227.41541 0,-73.46658"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Lend)" />
     <path
-       style="fill:none;stroke:#ffff00;stroke-width:0.98629612000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 563.93041,306.58981 6.0137,0"
+       style="fill:none;stroke:#ffff00;stroke-width:0.98629612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 563.93041,349.33435 6.0137,0"
        id="path22436"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:7.87315083px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.87315083px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none"
        x="559.35883"
-       y="298.75226"
+       y="341.4968"
        id="text22438"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan22440"
          x="559.35883"
-         y="298.75226">p.m</tspan></text>
-    <rect
-       style="color:#000000;fill:url(#linearGradient22466);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect22450"
-       width="239.79822"
-       height="16.509344"
-       x="471.75449"
-       y="426.88202" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 467.49549,436.48396 251.60157,0"
-       id="path22448"
-       inkscape:connector-curvature="0" />
+         y="341.4968">p.m</tspan></text>
+    <g
+       id="g7271"
+       transform="translate(0,42.744537)">
+      <rect
+         y="426.88202"
+         x="471.75449"
+         height="16.509344"
+         width="239.79822"
+         id="rect22450"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient22466);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path22448"
+         d="m 467.49549,436.48396 251.60157,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
     <flowRoot
        transform="translate(-10.0993,98.857617)"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -582,7 +600,7 @@
        y="285.28821" />
     <text
        xml:space="preserve"
-       style="font-size:4.99202013px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.99202013px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="31.589489"
        y="284.789"
        id="text4422-7-0"
@@ -591,7 +609,7 @@
          id="tspan4424-6-2"
          x="31.589489"
          y="284.789"
-         style="fill:#ffff00;fill-opacity:1">16u</tspan></text>
+         style="fill:#ffff00;fill-opacity:1">p.m</tspan></text>
     <rect
        style="fill:#ffff00;fill-opacity:1;stroke:none;display:inline"
        id="rect4444-3-5-7"
@@ -601,7 +619,7 @@
        y="308.25153" />
     <text
        xml:space="preserve"
-       style="font-size:4.99202013px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.99202013px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="35.0839"
        y="307.75232"
        id="text4446-9-7-1"
@@ -610,23 +628,23 @@
          id="tspan4448-7-2-3"
          x="35.0839"
          y="307.75232"
-         style="fill:#ffff00;fill-opacity:1">32u</tspan></text>
+         style="fill:#ffff00;fill-opacity:1">p.xl</tspan></text>
     <rect
-       y="308.25153"
+       y="350.99606"
        x="471.93475"
        height="0.99840403"
        width="15.974464"
        id="rect4449"
-       style="fill:#ffff00;fill-opacity:1;stroke:none;display:inline" />
+       style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none" />
     <text
        sodipodi:linespacing="125%"
        id="text4451"
-       y="307.75232"
+       y="350.49686"
        x="474.92996"
-       style="font-size:4.99202013000000022px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.99202013px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="fill:#ffff00;fill-opacity:1;-inkscape-font-specification:Ubuntu Mono;font-family:Ubuntu Mono;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-         y="307.75232"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffff00;fill-opacity:1"
+         y="350.49686"
          x="474.92996"
          id="tspan4453"
          sodipodi:role="line">p.l</tspan></text>
@@ -796,7 +814,7 @@
          inkscape:connector-curvature="0" />
       <path
          transform="matrix(0.17001568,0,0,0.17001568,-42.869241,483.97181)"
-         d="m 503,154.36218 c 0,12.15027 -9.84974,22 -22,22 -12.15026,0 -22,-9.84973 -22,-22 0,-12.15026 9.84974,-22 22,-22 12.15026,0 22,9.84974 22,22 z"
+         d="m 503,154.36218 a 22,22 0 0 1 -22,22 22,22 0 0 1 -22,-22 22,22 0 0 1 22,-22 22,22 0 0 1 22,22 z"
          sodipodi:ry="22"
          sodipodi:rx="22"
          sodipodi:cy="154.36218"
@@ -815,14 +833,14 @@
          sodipodi:cy="154.36218"
          sodipodi:rx="22"
          sodipodi:ry="22"
-         d="m 503,154.36218 c 0,12.15027 -9.84974,22 -22,22 -12.15026,0 -22,-9.84973 -22,-22 0,-12.15026 9.84974,-22 22,-22 12.15026,0 22,9.84974 22,22 z"
+         d="m 503,154.36218 a 22,22 0 0 1 -22,22 22,22 0 0 1 -22,-22 22,22 0 0 1 22,-22 22,22 0 0 1 22,22 z"
          transform="matrix(0.17001568,0,0,0.17001568,-42.869241,497.47181)"
          inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/dots-vertical.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          transform="matrix(0.17001568,0,0,0.17001568,-42.869241,510.97181)"
-         d="m 503,154.36218 c 0,12.15027 -9.84974,22 -22,22 -12.15026,0 -22,-9.84973 -22,-22 0,-12.15026 9.84974,-22 22,-22 12.15026,0 22,9.84974 22,22 z"
+         d="m 503,154.36218 a 22,22 0 0 1 -22,22 22,22 0 0 1 -22,-22 22,22 0 0 1 22,-22 22,22 0 0 1 22,22 z"
          sodipodi:ry="22"
          sodipodi:rx="22"
          sodipodi:cy="154.36218"
@@ -1124,5 +1142,138 @@
        d="m 183.875,744.99401 c -14.53756,0 -26.34375,11.77494 -26.34375,26.3125 0,12.26607 8.39577,22.57869 19.75,25.5 l 0,43.65625 -12.9375,0 9.75,16.90625 9.78125,16.90625 9.75,-16.90625 9.78125,-16.90625 -12.9375,0 0,-43.65625 c 11.33936,-2.9315 19.71875,-13.24449 19.71875,-25.5 0,-14.53756 -11.77494,-26.3125 -26.3125,-26.3125 z"
        id="path3167"
        inkscape:connector-curvature="0" />
+    <flowRoot
+       transform="translate(439.22248,-407.96063)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot10309-7-0-0-6"
+       xml:space="preserve"><flowRegion
+         id="flowRegion10311-7-0-4-4"><rect
+           y="492.0032"
+           x="32.286308"
+           height="130.93028"
+           width="238.51776"
+           id="rect10313-1-2-1-1"
+           style="text-align:end;text-anchor:end" /></flowRegion><flowPara
+         style="font-weight:normal;-inkscape-font-specification:'Ubuntu Mono Bold';text-align:end;text-anchor:end"
+         id="flowPara10345-9-9-7-9">The height of the open selectRoller equals the height of all its items (i.e. it opens enough to show everything without scrolling) until that height reaches 70% of the parent list height (in this case the screen minus the header). In this state the roller is not scrollable at all. Touching it scrolls the parent list (if that overflows).</flowPara><flowPara
+         style="font-weight:normal;-inkscape-font-specification:'Ubuntu Mono Bold';text-align:end;text-anchor:end"
+         id="flowPara7245"></flowPara><flowPara
+         style="font-weight:normal;-inkscape-font-specification:'Ubuntu Mono Bold';text-align:end;text-anchor:end"
+         id="flowPara7247">If it contains more items, the roller scrolls as shown at the bottom of this page.</flowPara></flowRoot>    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.92787361px;line-height:234.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="40.654167"
+       y="332.4343"
+       id="text7249"
+       sodipodi:linespacing="234.99999%"><tspan
+         id="tspan7251"
+         sodipodi:role="line"
+         x="40.654167"
+         y="332.4343">WHICH IS YOUR FAVORITE FISH?</tspan></text>
+    <text
+       sodipodi:linespacing="234.99999%"
+       id="text7253"
+       y="352.40601"
+       x="48.240303"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16.5px;line-height:234.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="352.40601"
+         x="48.240303"
+         sodipodi:role="line"
+         id="tspan7255">Alfonsino</tspan></text>
+    <path
+       inkscape:transform-center-y="1.108582"
+       d="m 125.74594,350.78604 -1.92012,-3.32574 -1.92012,-3.32575 3.84024,0 3.84024,0 -1.92012,3.32575 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="2.2171638"
+       sodipodi:r1="4.4343276"
+       sodipodi:cy="346.35173"
+       sodipodi:cx="125.74594"
+       sodipodi:sides="3"
+       id="path7257"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;marker:none;enable-background:accumulate"
+       sodipodi:type="star" />
+    <g
+       id="g7275"
+       transform="matrix(-1,0,0,-1,1183.3371,731.01793)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7281);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         id="rect7277"
+         width="239.79822"
+         height="16.509344"
+         x="471.75449"
+         y="426.88202" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 467.49549,436.48396 251.60157,0"
+         id="path7279"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.92787361px;line-height:234.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="479.8287"
+       y="285.50485"
+       id="text7285"
+       sodipodi:linespacing="234.99999%"><tspan
+         id="tspan7287"
+         sodipodi:role="line"
+         x="479.8287"
+         y="285.50485">WHICH IS YOUR FAVORITE FISH?</tspan></text>
+    <rect
+       y="50.136013"
+       x="-297.0575"
+       height="0.99840403"
+       width="7.9872322"
+       id="rect7289"
+       style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text7291"
+       y="48.54504"
+       x="-298.76059"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.99202013px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         style="fill:#ffff00;fill-opacity:1"
+         y="48.54504"
+         x="-298.76059"
+         id="tspan7293"
+         sodipodi:role="line">p.m</tspan></text>
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none"
+       id="rect7295"
+       width="7.9872322"
+       height="0.99840403"
+       x="-293.93063"
+       y="478.13602" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.99202013px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="-293.88745"
+       y="476.54504"
+       id="text7297"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7299"
+         x="-293.88745"
+         y="476.54504"
+         style="fill:#ffff00;fill-opacity:1">p.m</tspan></text>
   </g>
 </svg>
