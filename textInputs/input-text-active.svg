@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="116.41666mm"
+   height="9.0355139mm"
+   viewBox="0 0 116.41665 9.0355139"
+   version="1.1"
+   id="svg7081"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="input-text-active.svg">
+  <defs
+     id="defs7075">
+    <linearGradient
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,22.927596,45.040683)"
+       gradientUnits="userSpaceOnUse"
+       y2="351.36218"
+       x2="482.29718"
+       y1="351.36218"
+       x1="456.29718"
+       id="linearGradient8689"
+       xlink:href="#linearGradient8683"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient8683"
+       inkscape:collect="always">
+      <stop
+         id="stop8685"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop8687"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-10.297195,-20)"
+       gradientUnits="userSpaceOnUse"
+       y2="351.36218"
+       x2="482.29718"
+       y1="351.36218"
+       x1="456.29718"
+       id="linearGradient7053"
+       xlink:href="#linearGradient8683"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.82528169"
+     inkscape:cx="365.58672"
+     inkscape:cy="28.831876"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7078">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.647888,-133.73224)">
+    <rect
+       y="142.23859"
+       x="-151.06454"
+       height="0.52916664"
+       width="116.41666"
+       id="rect8677"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0091e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374999;marker:none;enable-background:accumulate"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="133.73224"
+       x="91.493622"
+       height="7.6729169"
+       width="24.870832"
+       id="rect8691"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0091e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07937501;marker:none;enable-background:accumulate" />
+    <text
+       id="text8679"
+       y="139.50433"
+       x="35.735268"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:url(#linearGradient8689);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:6.3499999px;line-height:1.25;fill:url(#linearGradient8689);fill-opacity:1;stroke-width:0.26458332"
+         y="139.50433"
+         x="35.735268"
+         id="tspan8681"
+         sodipodi:role="line">active textfield with <tspan
+   id="tspan8755"
+   style="fill:url(#linearGradient8689);stroke-width:0.26458332">selected</tspan> text that does not</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
+       transform="scale(-1,1)"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0091e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374999;marker:none;enable-background:accumulate"
+       id="rect8693"
+       width="116.41666"
+       height="0.52916664"
+       x="-151.06454"
+       y="142.23859" />
+  </g>
+</svg>
