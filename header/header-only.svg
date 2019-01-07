@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="127mm"
+   height="19.84375mm"
+   viewBox="0 0 127 19.84375"
+   version="1.1"
+   id="svg7007"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="header-only.svg">
+  <defs
+     id="defs7001">
+    <linearGradient
+       y2="191.36218"
+       x2="34"
+       y1="176.36218"
+       x1="34"
+       gradientTransform="matrix(14.111111,0,0,0.26458333,-438.95662,89.981108)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6224"
+       xlink:href="#linearGradient9194-7"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient9194-7">
+      <stop
+         id="stop9196-4"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop9198-0"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-302.85715"
+     inkscape:cy="-31.071431"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7004">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-40.82143,-120.7686)">
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Stephan\Documents\GitHub\glacier-controls-spec\header\header-gradient.png"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6224);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374999;marker:none;enable-background:accumulate"
+       id="rect9204-9"
+       width="127"
+       height="19.84375"
+       x="40.82143"
+       y="120.7686" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/text6689.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="59.837936"
+       y="131.25168"
+       id="text8957"><tspan
+         sodipodi:role="line"
+         id="tspan8959"
+         x="59.837936"
+         y="131.25168"
+         style="font-size:6.3499999px;line-height:1.25;stroke-width:0.26458332">application</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/icon-triangle-left.png"
+       transform="matrix(0.16854928,0,0,0.16373533,39.111929,107.29761)"
+       inkscape:transform-center-x="3.71453"
+       d="m 81.661903,154.56119 -17.492855,-10.0995 -17.492857,-10.09951 17.492857,-10.0995 17.492857,-10.09951 -10e-7,20.19901 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.0943951"
+       sodipodi:arg1="1.0471976"
+       sodipodi:r2="11.661904"
+       sodipodi:r1="23.323809"
+       sodipodi:cy="134.36218"
+       sodipodi:cx="70"
+       sodipodi:sides="3"
+       id="path9202"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33700001;marker:none;enable-background:accumulate"
+       sodipodi:type="star" />
+    <g
+       style="display:inline;fill:#ffffff;stroke:none"
+       transform="matrix(0.17462456,-0.17462456,0.17462456,0.17462456,-205.7499,493.19549)"
+       id="g4660"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/header/tmp_edit.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0"
+         rx="2.5647321"
+         y="-40.259556"
+         x="2031.7925"
+         height="6.7710276"
+         width="33.855209"
+         id="rect4662"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+      <path
+         transform="matrix(0.69490275,0,0,0.53620398,620.57711,-15.81216)"
+         inkscape:transform-center-y="-0.14791622"
+         inkscape:transform-center-x="0.33676626"
+         d="m 2017.7668,-39.292266 4.8027,-3.409183 5.3539,-2.454702 0.551,5.863884 -0.551,5.863884 -5.3539,-2.454701 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="4.1887902"
+         sodipodi:arg1="3.1415926"
+         sodipodi:r2="3.9365849"
+         sodipodi:r1="6.7710295"
+         sodipodi:cy="-39.292267"
+         sodipodi:cx="2024.5378"
+         sodipodi:sides="3"
+         id="path4664"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+         sodipodi:type="star" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path8753"
+       d="m 158.41843,133.00135 c -1.61827,-0.34114 -2.77171,-1.75633 -2.77171,-3.40062 0,-0.1658 0.023,-0.42147 0.051,-0.56815 0.0282,-0.14668 0.0463,-0.27137 0.0406,-0.2771 -0.006,-0.006 -0.21021,-0.0972 -0.4544,-0.20332 -0.47277,-0.20543 -0.55024,-0.25489 -0.52048,-0.33238 0.0237,-0.062 2.24648,-1.19238 2.34455,-1.19238 0.0401,0 0.0959,0.027 0.12398,0.0601 0.0549,0.0647 0.68256,2.34282 0.68129,2.4729 0,0.0431 -0.0217,0.0863 -0.0472,0.0962 -0.0254,0.01 -0.25926,-0.0763 -0.51928,-0.19133 -0.26001,-0.11504 -0.47903,-0.20289 -0.4867,-0.19522 -0.0421,0.0421 -0.0495,0.39761 -0.0134,0.64493 0.0815,0.55725 0.31591,1.00318 0.72793,1.38465 0.68708,0.63612 1.70558,0.77844 2.56443,0.35833 0.21245,-0.10391 0.21988,-0.10505 0.27897,-0.0427 0.093,0.0981 0.62932,0.87152 0.61446,0.88613 -0.0576,0.0567 -0.58546,0.31149 -0.78941,0.38104 -0.56385,0.19229 -1.26128,0.23778 -1.82472,0.11901 z m 3.0504,-1.10757 c -0.0571,-0.0882 -0.67252,-2.33479 -0.67252,-2.45505 0,-0.0434 0.021,-0.0871 0.0469,-0.097 0.0258,-0.01 0.26012,0.0755 0.52076,0.18982 0.26064,0.1143 0.48288,0.19881 0.49386,0.18781 0.011,-0.011 0.0193,-0.16932 0.0182,-0.35183 -0.003,-0.64178 -0.20663,-1.1252 -0.66675,-1.58657 -0.31274,-0.31358 -0.53169,-0.44975 -0.94498,-0.5876 -0.20058,-0.0669 -0.31131,-0.0802 -0.66943,-0.0802 -0.45678,0 -0.68811,0.053 -1.07416,0.24631 -0.0904,0.0453 -0.17859,0.0735 -0.19603,0.0627 -0.0175,-0.0108 -0.17347,-0.22153 -0.34677,-0.46833 -0.2486,-0.35409 -0.30498,-0.45549 -0.26738,-0.48073 0.16969,-0.11397 0.77878,-0.38134 1.00887,-0.44289 0.34856,-0.0932 1.00295,-0.12587 1.38969,-0.0693 0.87004,0.12721 1.69026,0.61444 2.24243,1.33202 0.57321,0.74492 0.82972,1.78427 0.65972,2.67286 -0.0282,0.14668 -0.0474,0.27021 -0.0429,0.27451 0.004,0.004 0.20897,0.0959 0.45444,0.20359 0.47229,0.20719 0.55223,0.25785 0.52385,0.33182 -0.023,0.0599 -2.25994,1.19526 -2.35501,1.19526 -0.0399,0 -0.0952,-0.0348 -0.1226,-0.0773 z"
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/header/tmp_refresh.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7968"
+       d="m 130.5371,125.02958 -0.49132,0.0485 -0.10918,0.55804 0.006,0.0606 0.097,0.45493 -0.66722,0.21836 -0.18803,-0.42459 -0.0303,-0.0546 -0.41853,-0.38819 -0.42459,0.24868 0.12738,0.55198 0.0303,0.0546 0.27295,0.37606 -0.52164,0.46706 -0.34575,-0.30935 -0.0485,-0.0364 -0.53984,-0.18196 -0.28508,0.39426 0.33967,0.45492 0.0485,0.0364 0.40034,0.23049 -0.28509,0.64296 -0.44279,-0.14558 -0.0607,-0.006 -0.5641,0.0485 -0.10312,0.47919 0.49738,0.27902 0.0607,0.0121 0.46099,0.0485 v 0.70361 l -0.46099,0.0485 -0.0607,0.0121 -0.49738,0.27296 0.10312,0.47918 0.5641,0.0546 0.0607,-0.0121 0.44279,-0.14557 0.28509,0.64295 -0.40034,0.23049 -0.0485,0.0364 -0.33967,0.45492 0.28508,0.39427 0.53984,-0.18197 0.0485,-0.0303 0.34575,-0.31541 0.52164,0.47312 -0.27295,0.37607 -0.0303,0.0485 -0.12738,0.55804 0.42459,0.24262 0.41853,-0.38819 0.0303,-0.0485 0.18803,-0.42459 0.66722,0.2123 -0.097,0.46098 -0.006,0.0607 0.10918,0.55198 0.49132,0.0546 0.21836,-0.52164 0.0121,-0.0607 -0.006,-0.46705 0.70362,-0.0728 0.097,0.45492 0.0182,0.0607 0.32754,0.46099 0.46098,-0.15164 -0.006,-0.57016 -0.0182,-0.0546 -0.18803,-0.4246 0.60656,-0.3518 0.27295,0.37607 0.0425,0.0425 0.48525,0.29115 0.36394,-0.32755 -0.23657,-0.51557 -0.0364,-0.0425 -0.35181,-0.30935 0.41853,-0.57017 0.40033,0.2305 0.0546,0.0243 0.5641,0.0667 0.20017,-0.44279 -0.42459,-0.37607 -0.0546,-0.0243 -0.44886,-0.14558 0.14558,-0.68541 0.46705,0.0485 h 0.0607 l 0.53984,-0.16984 v -0.49131 l -0.53986,-0.16377 h -0.0607 l -0.46706,0.0485 -0.14557,-0.69148 0.44885,-0.13951 0.0546,-0.0243 0.42459,-0.37607 -0.20016,-0.44885 -0.5641,0.0667 -0.0546,0.0243 -0.40033,0.23656 -0.41853,-0.57017 0.35181,-0.30934 0.0364,-0.0485 0.23656,-0.51558 -0.36394,-0.32754 -0.48525,0.29115 -0.0425,0.0425 -0.27295,0.38213 -0.60656,-0.3518 0.18804,-0.43066 0.0182,-0.0546 0.006,-0.57018 -0.46099,-0.14557 -0.32754,0.46099 -0.0182,0.0546 -0.097,0.46099 -0.70361,-0.0789 0.006,-0.46099 -0.0121,-0.0607 -0.21837,-0.52164 z m 0.24262,2.09263 c 1.31135,0 2.37772,1.06638 2.37772,2.37773 0,1.31134 -1.06637,2.37165 -2.37772,2.37165 -1.31134,0 -2.37165,-1.06031 -2.37165,-2.37165 0,-1.31135 1.06031,-2.37773 2.37165,-2.37773 z"
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.26458332"
+       inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/header/tmp_cog.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
