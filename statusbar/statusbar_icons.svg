@@ -14,7 +14,7 @@
    viewBox="0 0 612 559"
    version="1.1"
    id="svg2"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="statusbar_icons.svg"
    inkscape:export-filename="/home/qwazix/Documents/projects/glacier controls/statusbar/statusbar_icons.png"
    inkscape:export-xdpi="90"
@@ -40,15 +40,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1078"
+     inkscape:window-width="3840"
+     inkscape:window-height="2032"
      id="namedview327"
      showgrid="false"
-     inkscape:zoom="1.5837248"
-     inkscape:cx="420.23863"
-     inkscape:cy="145.54296"
+     inkscape:zoom="2.1659511"
+     inkscape:cx="190.47405"
+     inkscape:cy="294.46623"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="54"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <title
@@ -111,11 +111,11 @@
   <rect
      id="Rectangle-25"
      sketch:type="MSShapeGroup"
-     x="0"
-     y="0"
-     width="612"
-     height="562"
-     style="fill:#474747;stroke:#979797" />
+     x="1.1569583"
+     y="0.024524825"
+     width="669.19202"
+     height="618.53345"
+     style="fill:#474747;stroke:#979797;stroke-width:1.09701633" />
   <g
      id="cell-bars"
      sketch:type="MSLayerGroup"
@@ -810,7 +810,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="525"
        y="132"
@@ -821,7 +821,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="129"
        y="270"
@@ -832,7 +832,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="523"
        y="178"
@@ -843,7 +843,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="521"
        y="92"
@@ -854,7 +854,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="31"
        y="59"
@@ -865,7 +865,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="31"
        y="154"
@@ -876,7 +876,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="31"
        y="243"
@@ -887,7 +887,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="31"
        y="309"
@@ -898,7 +898,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="31"
        y="376"
@@ -909,7 +909,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="31"
        y="444"
@@ -920,7 +920,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="31"
        y="510"
@@ -931,7 +931,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="205"
        y="270"
@@ -942,7 +942,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="129"
        y="339"
@@ -953,7 +953,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="205"
        y="339"
@@ -964,7 +964,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="129"
        y="404"
@@ -975,7 +975,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="126"
        y="470"
@@ -986,7 +986,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="279"
        y="540"
@@ -997,7 +997,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="171"
        y="502"
@@ -1008,11 +1008,11 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans"
-     y="37.253948">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none"
+     y="93.253952">
     <tspan
        x="339"
-       y="554.25397"
+       y="610.25397"
        id="tspan310">battery gauge changes are code driven.</tspan>
   </text>
   <text
@@ -1020,11 +1020,11 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans"
-     y="37.253948">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none"
+     y="93.253952">
     <tspan
        x="339"
-       y="537.25397"
+       y="593.25397"
        id="tspan313">roundness : 2u / color : #FFFFFF / bgopacity : 10</tspan>
   </text>
   <text
@@ -1032,7 +1032,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="216"
        y="470"
@@ -1043,7 +1043,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="286"
        y="470"
@@ -1054,7 +1054,7 @@
      sketch:type="MSTextLayer"
      font-size="12"
      font-weight="normal"
-     style="font-size:12px;font-weight:normal;fill:#ffffff;stroke:none;font-family:Open Sans">
+     style="font-weight:normal;font-size:12px;line-height:0%;font-family:'Open Sans';fill:#ffffff;stroke:none">
     <tspan
        x="205"
        y="404"
@@ -1138,39 +1138,269 @@
        sodipodi:nodetypes="cscccccscc" />
   </g>
   <g
-     style="fill:#ffffff;stroke:none"
-     transform="translate(338.16947,487)"
-     sketch:type="MSLayerGroup"
-     id="g3154">
+     id="g1095"
+     transform="translate(0.9080505)">
+    <g
+       id="g3154"
+       sketch:type="MSLayerGroup"
+       transform="translate(360.16947,487)"
+       style="fill:#ffffff;stroke:none">
+      <rect
+         id="rect3156"
+         sketch:type="MSShapeGroup"
+         x="-2.2737368e-13"
+         y="2"
+         width="26.382339"
+         height="32.470573"
+         rx="8.4790573"
+         style="fill-opacity:0.1" />
+      <path
+         d="m 15.19117,2 c 0,-1.10456955 -0.89543,-2 -2,-2 -1.10457,0 -2,0.89543045 -2,2 z"
+         id="path3158"
+         sketch:type="MSShapeGroup"
+         inkscape:connector-curvature="0"
+         style="fill-opacity:0.10328585" />
+    </g>
     <rect
-       style="fill-opacity:0.1"
+       id="rect3162"
+       sketch:type="MSShapeGroup"
+       x="360.86096"
+       y="511.29636"
+       width="25.846754"
+       height="10.174222"
        rx="8.4790573"
-       height="32.470573"
-       width="26.382339"
-       y="2"
-       x="-2.2737368e-13"
-       sketch:type="MSShapeGroup"
-       id="rect3156" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" />
     <path
-       style="fill-opacity:0.10328585"
+       sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
-       sketch:type="MSShapeGroup"
-       id="path3158"
-       d="m 15.19117,2 c 0,-1.10456955 -0.89543,-2 -2,-2 -1.10457,0 -2,0.89543045 -2,2 l 4,0 z" />
+       id="path3160"
+       d="m 378.41148,495.08684 -9.91682,11.08757 3.19034,-0.61946 -2.99644,11.53129 9.95452,-12.22477 -3.06465,0.61946 z"
+       style="fill:#0091e5;fill-opacity:1;stroke:none" />
   </g>
-  <rect
-     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     rx="8.4790573"
-     height="10.174222"
-     width="25.846754"
-     y="511.29636"
-     x="338.86096"
-     sketch:type="MSShapeGroup"
-     id="rect3162" />
-  <path
-     style="fill:#0091e5;fill-opacity:1;stroke:none"
-     d="m 356.41148,495.08684 -9.91682,11.08757 3.19034,-0.61946 -2.99644,11.53129 9.95452,-12.22477 -3.06465,0.61946 z"
-     id="path3160"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
+  <g
+     id="g1114"
+     transform="translate(47.208717)">
+    <g
+       style="fill:#ffffff;stroke:none"
+       transform="translate(448.71802,487)"
+       sketch:type="MSLayerGroup"
+       id="g1021">
+      <rect
+         style="fill-opacity:0.1"
+         rx="8.4790573"
+         height="32.470573"
+         width="26.382339"
+         y="2"
+         x="-2.2737368e-13"
+         sketch:type="MSShapeGroup"
+         id="rect1017" />
+      <path
+         style="fill-opacity:0.10328585"
+         inkscape:connector-curvature="0"
+         sketch:type="MSShapeGroup"
+         id="path1019"
+         d="m 15.19117,2 c 0,-1.10456955 -0.89543,-2 -2,-2 -1.10457,0 -2,0.89543045 -2,2 z" />
+    </g>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       rx="8.4790573"
+       height="10.174222"
+       width="25.846754"
+       y="511.29636"
+       x="449.40952"
+       sketch:type="MSShapeGroup"
+       id="rect1023" />
+    <g
+       style="fill:#0091e5;fill-opacity:1;stroke:none"
+       transform="matrix(0.46689533,-0.53710164,0.53710164,0.46689533,445.9876,505.58304)"
+       sketch:type="MSLayerGroup"
+       id="nfc-3">
+      <path
+         style="fill:#0091e5;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         sketch:type="MSShapeGroup"
+         id="path149-7"
+         d="M 15.519157,4.7159334 C 15.678606,4.709255 15.838909,4.7058824 16,4.7058824 22.237569,4.7058824 27.294118,9.7624308 27.294118,16 27.294118,22.237569 22.237569,27.294118 16,27.294118 9.7624308,27.294118 4.7058824,22.237569 4.7058824,16 c 0,-0.161091 0.00337,-0.321394 0.010051,-0.480843 0.2408348,5.504163 4.779374,9.892608 10.3428906,9.892608 5.717771,0 10.352941,-4.63517 10.352941,-10.352941 0,-5.5635166 -4.388445,-10.1020558 -9.892608,-10.3428906 z" />
+      <circle
+         style="fill:#0091e5;fill-opacity:1"
+         r="5.5"
+         cy="15.911765"
+         cx="15.911765"
+         sketch:type="MSShapeGroup"
+         id="Oval-6-5" />
+    </g>
+  </g>
+  <g
+     id="g1104"
+     transform="translate(22.128112)">
+    <g
+       style="fill:#ffffff;stroke:none"
+       transform="translate(406.37399,487)"
+       sketch:type="MSLayerGroup"
+       id="g1055">
+      <rect
+         style="fill-opacity:0.1"
+         rx="8.4790573"
+         height="32.470573"
+         width="26.382339"
+         y="2"
+         x="-2.2737368e-13"
+         sketch:type="MSShapeGroup"
+         id="rect1051" />
+      <path
+         style="fill-opacity:0.10328585"
+         inkscape:connector-curvature="0"
+         sketch:type="MSShapeGroup"
+         id="path1053"
+         d="m 15.19117,2 c 0,-1.10456955 -0.89543,-2 -2,-2 -1.10457,0 -2,0.89543045 -2,2 z" />
+    </g>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       rx="8.4790573"
+       height="10.174222"
+       width="25.846754"
+       y="511.29636"
+       x="407.06549"
+       sketch:type="MSShapeGroup"
+       id="rect1057" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path1061"
+       d="m 429.51376,493.08684 -9.91682,11.08757 3.19034,-0.61946 -2.99644,11.53129 9.95452,-12.22477 -3.06465,0.61946 z"
+       style="fill:#0091e5;fill-opacity:1;stroke:none" />
+    <g
+       transform="translate(22)"
+       id="g1088">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path1059"
+         d="m 397.24256,496.69524 -9.91682,11.08757 3.19034,-0.61946 -2.99644,11.53129 9.95452,-12.22477 -3.06465,0.61946 z"
+         style="fill:#0091e5;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="374.15329"
+     y="540.42773"
+     id="text1142"><tspan
+       sodipodi:role="line"
+       id="tspan1140"
+       x="374.15329"
+       y="540.42773">charging</tspan><tspan
+       sodipodi:role="line"
+       x="374.15329"
+       y="555.42773"
+       id="tspan1144">USB</tspan></text>
+  <text
+     id="text1166"
+     y="540.42773"
+     x="441.57788"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="540.42773"
+       x="441.57788"
+       id="tspan1162"
+       sodipodi:role="line">fast</tspan><tspan
+       y="555.42773"
+       x="441.57788"
+       sodipodi:role="line"
+       id="tspan1168">charging</tspan><tspan
+       id="tspan1164"
+       y="570.42773"
+       x="441.57788"
+       sodipodi:role="line">USB</tspan></text>
+  <g
+     transform="translate(114.63327)"
+     id="g1186">
+    <g
+       id="g1174"
+       sketch:type="MSLayerGroup"
+       transform="translate(448.71802,487)"
+       style="fill:#ffffff;stroke:none">
+      <rect
+         id="rect1170"
+         sketch:type="MSShapeGroup"
+         x="-2.2737368e-13"
+         y="2"
+         width="26.382339"
+         height="32.470573"
+         rx="8.4790573"
+         style="fill-opacity:0.1" />
+      <path
+         d="m 15.19117,2 c 0,-1.10456955 -0.89543,-2 -2,-2 -1.10457,0 -2,0.89543045 -2,2 z"
+         id="path1172"
+         sketch:type="MSShapeGroup"
+         inkscape:connector-curvature="0"
+         style="fill-opacity:0.10328585" />
+    </g>
+    <rect
+       id="rect1176"
+       sketch:type="MSShapeGroup"
+       x="449.40952"
+       y="511.29636"
+       width="25.846754"
+       height="10.174222"
+       rx="8.4790573"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" />
+    <g
+       id="g1184"
+       sketch:type="MSLayerGroup"
+       transform="matrix(0.46689533,-0.53710164,0.53710164,0.46689533,445.9876,505.58304)"
+       style="fill:#0091e5;fill-opacity:1;stroke:none">
+      <path
+         d="M 15.491922,0.00791391 C 15.660636,0.002651 15.830009,0 16,0 24.836556,0 32,7.1634436 32,16 32,24.836556 24.836556,32 16,32 7.1634436,32 0,24.836556 0,16 0,15.830009 0.002651,15.660636 0.00791391,15.491922 0.26749968,23.548501 6.8803352,30 15,30 23.284272,30 30,23.284272 30,15 30,6.8803352 23.548501,0.26749968 15.491922,0.00791391 Z"
+         id="path1178"
+         sketch:type="MSShapeGroup"
+         inkscape:connector-curvature="0"
+         style="fill:#0091e5;fill-opacity:1" />
+      <path
+         d="M 15.519157,4.7159334 C 15.678606,4.709255 15.838909,4.7058824 16,4.7058824 22.237569,4.7058824 27.294118,9.7624308 27.294118,16 27.294118,22.237569 22.237569,27.294118 16,27.294118 9.7624308,27.294118 4.7058824,22.237569 4.7058824,16 c 0,-0.161091 0.00337,-0.321394 0.010051,-0.480843 0.2408348,5.504163 4.779374,9.892608 10.3428906,9.892608 5.717771,0 10.352941,-4.63517 10.352941,-10.352941 0,-5.5635166 -4.388445,-10.1020558 -9.892608,-10.3428906 z"
+         id="path1180"
+         sketch:type="MSShapeGroup"
+         inkscape:connector-curvature="0"
+         style="fill:#0091e5;fill-opacity:1" />
+      <circle
+         id="circle1182"
+         sketch:type="MSShapeGroup"
+         cx="15.911765"
+         cy="15.911765"
+         r="5.5"
+         style="fill:#0091e5;fill-opacity:1" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+     x="509.0025"
+     y="540.42773"
+     id="text1194"><tspan
+       id="tspan1190"
+       sodipodi:role="line"
+       x="509.0025"
+       y="540.42773">charging</tspan><tspan
+       sodipodi:role="line"
+       x="509.0025"
+       y="555.42773"
+       id="tspan1192">wirelessly</tspan></text>
+  <text
+     id="text1202"
+     y="540.42773"
+     x="576.42706"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="540.42773"
+       x="576.42706"
+       id="tspan1196"
+       sodipodi:role="line">fast</tspan><tspan
+       y="555.42773"
+       x="576.42706"
+       sodipodi:role="line"
+       id="tspan1198">charging</tspan><tspan
+       id="tspan1200"
+       y="570.42773"
+       x="576.42706"
+       sodipodi:role="line">wirelessly</tspan></text>
 </svg>
